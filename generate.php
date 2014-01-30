@@ -42,6 +42,26 @@ function insert_provincia($db, $row_provincia, $row_regione, $provincia_sign, $p
 }
 
 
+
+function insert_comune_cap_multiplo($db, $start_cap, $end_cap, &$row_comune, $comune_name, $regione_id, $provincia_id)
+{
+    $start = intval($start_cap);
+    $end = intval($end_cap);
+
+
+    for ($i=$start_cap; $i <= $end_cap ; $i++) {
+
+        $query_comune = "INSERT INTO municipalities VALUES (" . $row_comune . "," .  '"'. $comune_name . '"' . "," . 1 .","  . $i . "," . $regione_id . "," . $provincia_id .")";
+        if($db->query($query_comune))
+            echo "inserted municipality " . $row_comune . " " . $comune_name . " " . $i . " " . $regione_id . "\n";
+        else
+            echo $db->error;
+
+        $row_comune++;
+
+    }
+}
+
 function insert_comuni($comuni_file, $db)
 {
      $row_comune = 0;
@@ -58,12 +78,23 @@ function insert_comuni($comuni_file, $db)
                $regione_id = $row['regions_id'];
             }
 
+            if(strstr($comune_cap, '-', true)){
+                echo "cap multiplo " . "\n";
+                $start_cap = strstr($comune_cap, '-', true);
+                $position_char = strrpos($comune_cap, '-');
+                $end_cap = substr($comune_cap, $position_char + 1);
+                //echo $start_cap . " " . $end_cap . "\n";
+                insert_comune_cap_multiplo($db, $start_cap, $end_cap, $row_comune, $comune_name, $regione_id, $provincia_id);
+            }
+            else{
+
             $query_comune = "INSERT INTO municipalities VALUES (" . $row_comune . "," .  '"'. $comune_name . '"' . "," . 1 .","  . $comune_cap . "," . $regione_id . "," . $provincia_id .")";
             if($db->query($query_comune))
                echo "inserted municipality " . $row_comune . " " . $comune_name . " " . $comune_cap . " " . $regione_id . "\n";
              else
                echo $db->error;
             $row_comune++;
+            }
        }
      }
 }
@@ -137,7 +168,7 @@ if(count($argv) != 3){
 }
 
 
-$db = new mysqli("localhost","root","","manager2");
+$db = new mysqli("127.0.0.1","root","","manager2");
 if($db->connect_errno > 0){
     die('Unable to connect to database [' . $db->connect_error . ']');
 }

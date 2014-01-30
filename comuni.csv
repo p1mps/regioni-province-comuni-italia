@@ -59,7 +59,7 @@
 086001;Agira;EN;SIC;0935;94011;A070;8282;http://www.comuni-italiani.it/086/001/
 047002;Agliana;PT;TOS;0574;51031;A071;17076;http://www.comuni-italiani.it/047/002/
 005001;Agliano Terme;AT;PIE;0141;14041;A072;1685;http://www.comuni-italiani.it/005/001/
-001001;AgliË;TO;PIE;0124;10011;A074;2591;http://www.comuni-italiani.it/001/001/
+001001;Agli√®;TO;PIE;0124;10011;A074;2591;http://www.comuni-italiani.it/001/001/
 104002;Aglientu;OT;SAR;079;07020;H848;1213;http://www.comuni-italiani.it/104/002/
 028002;Agna;PD;VEN;049;35021;A075;3412;http://www.comuni-italiani.it/028/002/
 019002;Agnadello;CR;LOM;0373;26020;A076;3776;http://www.comuni-italiani.it/019/002/
@@ -91,7 +91,7 @@
 097002;Airuno;LC;LOM;039;23881;A112;2999;http://www.comuni-italiani.it/097/002/
 004002;Aisone;CN;PIE;0171;12010;A113;256;http://www.comuni-italiani.it/004/002/
 022001;Ala;TN;TAA;0464;38061;A116;9034;http://www.comuni-italiani.it/022/001/
-104003;Al‡ dei Sardi;OT;SAR;079;07020;A115;1960;http://www.comuni-italiani.it/104/003/
+104003;Al√† dei Sardi;OT;SAR;079;07020;A115;1960;http://www.comuni-italiani.it/104/003/
 001003;Ala di Stura;TO;PIE;0123;10070;A117;465;http://www.comuni-italiani.it/001/003/
 018001;Alagna;PV;LOM;0382;27020;A118;906;http://www.comuni-italiani.it/018/001/
 002002;Alagna Valsesia;VC;PIE;0163;13021;A119;434;http://www.comuni-italiani.it/002/002/
@@ -141,7 +141,7 @@
 022003;Aldeno;TN;TAA;0461;38060;A178;3014;http://www.comuni-italiani.it/022/003/
 021001;Aldino;BZ;TAA;0471;39040;A179;1665;http://www.comuni-italiani.it/021/001/
 095004;Ales;OR;SAR;0783;09091;A180;1512;http://www.comuni-italiani.it/095/004/
-006003;Alessandria;AL;PIE;0131;1512x;A182;94974;http://www.comuni-italiani.it/006/003/
+006003;Alessandria;AL;PIE;0131;15121-15122;A182;94974;http://www.comuni-italiani.it/006/003/
 078007;Alessandria del Carretto;CS;CAL;0981;87070;A183;538;http://www.comuni-italiani.it/078/007/
 084002;Alessandria della Rocca;AG;SIC;0922;92010;A181;3109;http://www.comuni-italiani.it/084/002/
 075002;Alessano;LE;PUG;0833;73031;A184;6552;http://www.comuni-italiani.it/075/002/
@@ -153,8 +153,8 @@
 039001;Alfonsine;RA;EMR;0544;48011;A191;12411;http://www.comuni-italiani.it/039/001/
 090003;Alghero;SS;SAR;079;07041;A192;40965;http://www.comuni-italiani.it/090/003/
 016248;Algua;BG;LOM;0345;24010;A193;726;http://www.comuni-italiani.it/016/248/
-083002;AlÏ;ME;SIC;0942;98020;A194;834;http://www.comuni-italiani.it/083/002/
-083003;AlÏ Terme;ME;SIC;0942;98021;A201;2581;http://www.comuni-italiani.it/083/003/
+083002;Al√¨;ME;SIC;0942;98020;A194;834;http://www.comuni-italiani.it/083/002/
+083003;Al√¨ Terme;ME;SIC;0942;98021;A201;2581;http://www.comuni-italiani.it/083/003/
 082001;Alia;PA;SIC;091;90021;A195;3907;http://www.comuni-italiani.it/082/001/
 077002;Aliano;MT;BAS;0835;75010;A196;1110;http://www.comuni-italiani.it/077/002/
 006005;Alice Bel Colle;AL;PIE;0144;15010;A197;781;http://www.comuni-italiani.it/006/005/
@@ -169,8 +169,8 @@
 055002;Allerona;TR;UMB;0763;05011;A207;1881;http://www.comuni-italiani.it/055/002/
 075004;Alliste;LE;PUG;0833;73040;A208;6719;http://www.comuni-italiani.it/075/004/
 058004;Allumiere;RM;LAZ;0766;00051;A210;4268;http://www.comuni-italiani.it/058/004/
-006006;Alluvioni CambiÚ;AL;PIE;0131;15040;A211;986;http://www.comuni-italiani.it/006/006/
-016005;AlmË;BG;LOM;035;24011;A214;5736;http://www.comuni-italiani.it/016/005/
+006006;Alluvioni Cambi√≤;AL;PIE;0131;15040;A211;986;http://www.comuni-italiani.it/006/006/
+016005;Alm√®;BG;LOM;035;24011;A214;5736;http://www.comuni-italiani.it/016/005/
 016006;Almenno San Bartolomeo;BG;LOM;035;24030;A216;6018;http://www.comuni-italiani.it/016/006/
 016007;Almenno San Salvatore;BG;LOM;035;24031;A217;5825;http://www.comuni-italiani.it/016/007/
 001006;Almese;TO;PIE;011;10040;A218;6378;http://www.comuni-italiani.it/001/006/
@@ -220,7 +220,7 @@
 063004;Anacapri;NA;CAM;081;80071;A268;6768;http://www.comuni-italiani.it/063/004/
 060006;Anagni;FR;LAZ;0775;03012;A269;21676;http://www.comuni-italiani.it/060/006/
 067002;Ancarano;TE;ABR;0861;64010;A270;1921;http://www.comuni-italiani.it/067/002/
-042002;Ancona;AN;MAR;071;601xx;A271;102997;http://www.comuni-italiani.it/042/002/
+042002;Ancona;AN;MAR;071;60121-60131;A271;102997;http://www.comuni-italiani.it/042/002/
 079005;Andali;CZ;CAL;0961;88050;A272;811;http://www.comuni-italiani.it/079/005/
 022005;Andalo;TN;TAA;0461;38010;A274;1037;http://www.comuni-italiani.it/022/005/
 014003;Andalo Valtellino;SO;LOM;0342;23014;A273;550;http://www.comuni-italiani.it/014/003/
@@ -249,7 +249,7 @@
 080003;Anoia;RC;CAL;0966;89020;A303;2289;http://www.comuni-italiani.it/080/003/
 016010;Antegnate;BG;LOM;0363;24051;A304;3194;http://www.comuni-italiani.it/016/010/
 021003;Anterivo;BZ;TAA;0471;39040;A306;383;http://www.comuni-italiani.it/021/003/
-007002;Antey-Saint-AndrË;AO;VDA;0166;11020;A305;622;http://www.comuni-italiani.it/007/002/
+007002;Antey-Saint-Andr√®;AO;VDA;0166;11020;A305;622;http://www.comuni-italiani.it/007/002/
 058006;Anticoli Corrado;RM;LAZ;0774;00022;A309;969;http://www.comuni-italiani.it/058/006/
 005003;Antignano;AT;PIE;0141;14010;A312;1002;http://www.comuni-italiani.it/005/003/
 083004;Antillo;ME;SIC;0942;98030;A313;966;http://www.comuni-italiani.it/083/004/
@@ -345,14 +345,14 @@
 062005;Arpaia;BN;CAM;0823;82011;A431;2001;http://www.comuni-italiani.it/062/005/
 062006;Arpaise;BN;CAM;0824;82010;A432;858;http://www.comuni-italiani.it/062/006/
 060010;Arpino;FR;LAZ;0776;03033;A433;7552;http://www.comuni-italiani.it/060/010/
-028005;Arqu‡ Petrarca;PD;VEN;0429;35032;A434;1860;http://www.comuni-italiani.it/028/005/
-029003;Arqu‡ Polesine;RO;VEN;0425;45031;A435;2850;http://www.comuni-italiani.it/029/003/
+028005;Arqu√† Petrarca;PD;VEN;0429;35032;A434;1860;http://www.comuni-italiani.it/028/005/
+029003;Arqu√† Polesine;RO;VEN;0425;45031;A435;2850;http://www.comuni-italiani.it/029/003/
 044006;Arquata del Tronto;AP;MAR;0736;63096;A437;1302;http://www.comuni-italiani.it/044/006/
 006009;Arquata Scrivia;AL;PIE;0143;15061;A436;6260;http://www.comuni-italiani.it/006/009/
 028006;Arre;PD;VEN;049;35020;A438;2179;http://www.comuni-italiani.it/028/006/
 055005;Arrone;TR;UMB;0744;05031;A439;2918;http://www.comuni-italiani.it/055/005/
 012005;Arsago Seprio;VA;LOM;0331;21010;A441;4886;http://www.comuni-italiani.it/012/005/
-025004;ArsiË;BL;VEN;0439;32030;A443;2535;http://www.comuni-italiani.it/025/004/
+025004;Arsi√®;BL;VEN;0439;32030;A443;2535;http://www.comuni-italiani.it/025/004/
 024007;Arsiero;VI;VEN;0445;36011;A444;3323;http://www.comuni-italiani.it/024/007/
 067003;Arsita;TE;ABR;0861;64031;A445;889;http://www.comuni-italiani.it/067/003/
 058010;Arsoli;RM;LAZ;0774;00023;A446;1670;http://www.comuni-italiani.it/058/010/
@@ -530,7 +530,7 @@
 010003;Bargagli;GE;LIG;010;16021;A658;2829;http://www.comuni-italiani.it/010/003/
 004012;Barge;CN;PIE;0175;12032;A660;7891;http://www.comuni-italiani.it/004/012/
 017012;Barghe;BS;LOM;0365;25070;A661;1195;http://www.comuni-italiani.it/017/012/
-072006;Bari;BA;PUG;080;701xx;A662;320475;http://www.comuni-italiani.it/072/006/
+072006;Bari;BA;PUG;080;70121-70132;A662;320475;http://www.comuni-italiani.it/072/006/
 105002;Bari Sardo;OG;SAR;0782;08042;A663;3983;http://www.comuni-italiani.it/105/002/
 016020;Bariano;BG;LOM;0363;24050;A664;4431;http://www.comuni-italiani.it/016/020/
 037003;Baricella;BO;EMR;051;40052;A665;6739;http://www.comuni-italiani.it/037/003/
@@ -548,16 +548,16 @@
 106002;Barumini;VS;SAR;070;09021;A681;1339;http://www.comuni-italiani.it/106/002/
 097005;Barzago;LC;LOM;031;23890;A683;2566;http://www.comuni-italiani.it/097/005/
 016021;Barzana;BG;LOM;035;24030;A684;1769;http://www.comuni-italiani.it/016/021/
-097006;BarzanÚ;LC;LOM;039;23891;A686;5203;http://www.comuni-italiani.it/097/006/
+097006;Barzan√≤;LC;LOM;039;23891;A686;5203;http://www.comuni-italiani.it/097/006/
 097007;Barzio;LC;LOM;0341;23816;A687;1321;http://www.comuni-italiani.it/097/007/
 006012;Basaluzzo;AL;PIE;0143;15060;A689;2113;http://www.comuni-italiani.it/006/012/
-018009;BascapË;PV;LOM;0382;27010;A690;1777;http://www.comuni-italiani.it/018/009/
+018009;Bascap√®;PV;LOM;0382;27010;A690;1777;http://www.comuni-italiani.it/018/009/
 055007;Baschi;TR;UMB;0744;05023;A691;2847;http://www.comuni-italiani.it/055/007/
 067005;Basciano;TE;ABR;0861;64030;A692;2449;http://www.comuni-italiani.it/067/005/
-022009;Baselga di PinË;TN;TAA;0461;38042;A694;4899;http://www.comuni-italiani.it/022/009/
+022009;Baselga di Pin√®;TN;TAA;0461;38042;A694;4899;http://www.comuni-italiani.it/022/009/
 062007;Baselice;BN;CAM;0824;82020;A696;2593;http://www.comuni-italiani.it/062/007/
 015014;Basiano;MI;LOM;02;20060;A697;3686;http://www.comuni-italiani.it/015/014/
-083006;BasicÚ;ME;SIC;0941;98060;A698;692;http://www.comuni-italiani.it/083/006/
+083006;Basic√≤;ME;SIC;0941;98060;A698;692;http://www.comuni-italiani.it/083/006/
 015015;Basiglio;MI;LOM;02;20080;A699;8003;http://www.comuni-italiani.it/015/015/
 030009;Basiliano;UD;FVG;0432;33031;A700;5410;http://www.comuni-italiani.it/030/009/
 017013;Bassano Bresciano;BS;LOM;030;25020;A702;2219;http://www.comuni-italiani.it/017/013/
@@ -566,7 +566,7 @@
 056005;Bassano Romano;VT;LAZ;0761;01030;A704;5049;http://www.comuni-italiani.it/056/005/
 059002;Bassiano;LT;LAZ;0773;04010;A707;1651;http://www.comuni-italiani.it/059/002/
 006013;Bassignana;AL;PIE;0131;15042;A708;1772;http://www.comuni-italiani.it/006/013/
-004014;Bastia MondovÏ;CN;PIE;0174;12060;A709;658;http://www.comuni-italiani.it/004/014/
+004014;Bastia Mondov√¨;CN;PIE;0174;12060;A709;658;http://www.comuni-italiani.it/004/014/
 054002;Bastia Umbra;PG;UMB;075;06083;A710;21800;http://www.comuni-italiani.it/054/002/
 018010;Bastida de' Dossi;PV;LOM;0383;27050;A711;173;http://www.comuni-italiani.it/018/010/
 018011;Bastida Pancarana;PV;LOM;0383;27050;A712;1047;http://www.comuni-italiani.it/018/011/
@@ -622,7 +622,7 @@
 078015;Belvedere Marittimo;CS;CAL;0985;87021;A773;9388;http://www.comuni-italiani.it/078/015/
 042005;Belvedere Ostrense;AN;MAR;0731;60030;A769;2299;http://www.comuni-italiani.it/042/005/
 005008;Belveglio;AT;PIE;0141;14040;A770;327;http://www.comuni-italiani.it/005/008/
-091007;BelvÏ;NU;SAR;0784;08030;A776;671;http://www.comuni-italiani.it/091/007/
+091007;Belv√¨;NU;SAR;0784;08030;A776;671;http://www.comuni-italiani.it/091/007/
 014006;Bema;SO;LOM;0342;23010;A777;132;http://www.comuni-italiani.it/014/006/
 013021;Bene Lario;CO;LOM;0344;22010;A778;365;http://www.comuni-italiani.it/013/021/
 004019;Bene Vagienna;CN;PIE;0172;12041;A779;3675;http://www.comuni-italiani.it/004/019/
@@ -639,7 +639,7 @@
 013022;Beregazzo con Figliaro;CO;LOM;031;22070;A791;2590;http://www.comuni-italiani.it/013/022/
 018014;Bereguardo;PV;LOM;0382;27021;A792;2843;http://www.comuni-italiani.it/018/014/
 006015;Bergamasco;AL;PIE;0131;15022;A793;780;http://www.comuni-italiani.it/006/015/
-016024;Bergamo;BG;LOM;035;241xx;A794;119551;http://www.comuni-italiani.it/016/024/
+016024;Bergamo;BG;LOM;035;24121-24129;A794;119551;http://www.comuni-italiani.it/016/024/
 029006;Bergantino;RO;VEN;0425;45032;A795;2617;http://www.comuni-italiani.it/029/006/
 009010;Bergeggi;SV;LIG;019;17028;A796;1163;http://www.comuni-italiani.it/009/010/
 004021;Bergolo;CN;PIE;0173;12074;A798;67;http://www.comuni-italiani.it/004/021/
@@ -678,7 +678,7 @@
 003018;Biandrate;NO;PIE;0321;28061;A844;1190;http://www.comuni-italiani.it/003/018/
 012014;Biandronno;VA;LOM;0332;21024;A845;3275;http://www.comuni-italiani.it/012/014/
 016026;Bianzano;BG;LOM;035;24060;A846;604;http://www.comuni-italiani.it/016/026/
-002011;BianzË;VC;PIE;0161;13041;A847;2060;http://www.comuni-italiani.it/002/011/
+002011;Bianz√®;VC;PIE;0161;13041;A847;2060;http://www.comuni-italiani.it/002/011/
 014008;Bianzone;SO;LOM;0342;23030;A848;1278;http://www.comuni-italiani.it/014/008/
 108009;Biassono;MB;LOM;039;20853;A849;11754;http://www.comuni-italiani.it/108/009/
 035004;Bibbiano;RE;EMR;0522;42021;A850;10021;http://www.comuni-italiani.it/035/004/
@@ -687,7 +687,7 @@
 001025;Bibiana;TO;PIE;0121;10060;A853;3399;http://www.comuni-italiani.it/001/025/
 071006;Biccari;FG;PUG;0881;71032;A854;2893;http://www.comuni-italiani.it/071/006/
 030011;Bicinicco;UD;FVG;0432;33050;A855;1930;http://www.comuni-italiani.it/030/011/
-095014;BidonÏ;OR;SAR;0783;09080;A856;150;http://www.comuni-italiani.it/095/014/
+095014;Bidon√¨;OR;SAR;0783;09080;A856;150;http://www.comuni-italiani.it/095/014/
 096004;Biella;BI;PIE;015;13900;A859;45589;http://www.comuni-italiani.it/096/004/
 017018;Bienno;BS;LOM;0364;25040;A861;3615;http://www.comuni-italiani.it/017/018/
 022015;Bieno;TN;TAA;0461;38050;A863;447;http://www.comuni-italiani.it/022/015/
@@ -741,7 +741,7 @@
 016028;Bolgare;BG;LOM;035;24060;A937;5698;http://www.comuni-italiani.it/016/028/
 015027;Bollate;MI;LOM;02;20021;A940;36467;http://www.comuni-italiani.it/015/027/
 001027;Bollengo;TO;PIE;0125;10012;A941;2088;http://www.comuni-italiani.it/001/027/
-037006;Bologna;BO;EMR;051;401xx;A944;380181;http://www.comuni-italiani.it/037/006/
+037006;Bologna;BO;EMR;051;40121-40141;A944;380181;http://www.comuni-italiani.it/037/006/
 068003;Bolognano;PE;ABR;085;65020;A945;1195;http://www.comuni-italiani.it/068/003/
 082011;Bolognetta;PA;SIC;091;90030;A946;4096;http://www.comuni-italiani.it/082/011/
 043005;Bolognola;MC;MAR;0737;62035;A947;164;http://www.comuni-italiani.it/043/005/
@@ -903,7 +903,7 @@
 022025;Brentonico;TN;TAA;0464;38060;B153;3920;http://www.comuni-italiani.it/022/025/
 023014;Brenzone;VR;VEN;045;37010;B154;2542;http://www.comuni-italiani.it/023/014/
 035006;Brescello;RE;EMR;0522;42041;B156;5604;http://www.comuni-italiani.it/035/006/
-017029;Brescia;BS;LOM;030;251xx;B157;193879;http://www.comuni-italiani.it/017/029/
+017029;Brescia;BS;LOM;030;25121-25136;B157;193879;http://www.comuni-italiani.it/017/029/
 022026;Bresimo;TN;TAA;0463;38020;B158;248;http://www.comuni-italiani.it/022/026/
 018023;Bressana Bottarone;PV;LOM;0383;27042;B159;3560;http://www.comuni-italiani.it/018/023/
 021011;Bressanone;BZ;TAA;0472;39042;B160;20689;http://www.comuni-italiani.it/021/011/
@@ -970,7 +970,7 @@
 015036;Buccinasco;MI;LOM;02;20090;B240;26937;http://www.comuni-italiani.it/015/036/
 065017;Buccino;SA;CAM;0828;84021;B242;5394;http://www.comuni-italiani.it/065/017/
 051005;Bucine;AR;TOS;055;52021;B243;10194;http://www.comuni-italiani.it/051/005/
-104008;BuddusÚ;OT;SAR;079;07020;B246;4009;http://www.comuni-italiani.it/104/008/
+104008;Buddus√≤;OT;SAR;079;07020;B246;4009;http://www.comuni-italiani.it/104/008/
 093008;Budoia;PN;FVG;0434;33070;B247;2573;http://www.comuni-italiani.it/093/008/
 104009;Budoni;OT;SAR;0784;08020;B248;4951;http://www.comuni-italiani.it/104/009/
 037008;Budrio;BO;EMR;051;40054;B249;17994;http://www.comuni-italiani.it/037/008/
@@ -1035,12 +1035,12 @@
 001046;Cafasse;TO;PIE;0123;10070;B350;3585;http://www.comuni-italiani.it/001/046/
 065019;Caggiano;SA;CAM;0975;84030;B351;2858;http://www.comuni-italiani.it/065/019/
 041007;Cagli;PU;MAR;0721;61043;B352;9148;http://www.comuni-italiani.it/041/007/
-092009;Cagliari;CA;SAR;070;091xx;B354;156488;http://www.comuni-italiani.it/092/009/
+092009;Cagliari;CA;SAR;070;09121-09134;B354;156488;http://www.comuni-italiani.it/092/009/
 013037;Caglio;CO;LOM;031;22030;B355;448;http://www.comuni-italiani.it/013/037/
 066013;Cagnano Amiterno;AQ;ABR;0862;67012;B358;1472;http://www.comuni-italiani.it/066/013/
 071008;Cagnano Varano;FG;PUG;0884;71010;B357;7663;http://www.comuni-italiani.it/071/008/
 013038;Cagno;CO;LOM;031;22070;B359;2054;http://www.comuni-italiani.it/013/038/
-022030;CagnÚ;TN;TAA;0463;38028;B360;365;http://www.comuni-italiani.it/022/030/
+022030;Cagn√≤;TN;TAA;0463;38028;B360;365;http://www.comuni-italiani.it/022/030/
 061008;Caianello;CE;CAM;0823;81059;B361;1775;http://www.comuni-italiani.it/061/008/
 061009;Caiazzo;CE;CAM;0823;81013;B362;5822;http://www.comuni-italiani.it/061/009/
 021014;Caines;BZ;TAA;0473;39010;B364;400;http://www.comuni-italiani.it/021/014/
@@ -1234,7 +1234,7 @@
 056011;Canepina;VT;LAZ;0761;01030;B597;3212;http://www.comuni-italiani.it/056/011/
 093009;Caneva;PN;FVG;0434;33070;B598;6541;http://www.comuni-italiani.it/093/009/
 018028;Canevino;PV;LOM;0385;27040;B599;119;http://www.comuni-italiani.it/018/028/
-084011;CanicattÏ;AG;SIC;0922;92024;B602;35097;http://www.comuni-italiani.it/084/011/
+084011;Canicatt√¨;AG;SIC;0922;92024;B602;35097;http://www.comuni-italiani.it/084/011/
 089005;Canicattini Bagni;SR;SIC;0931;96010;B603;7355;http://www.comuni-italiani.it/089/005/
 056012;Canino;VT;LAZ;0761;01011;B604;5310;http://www.comuni-italiani.it/056/012/
 001052;Canischio;TO;PIE;0124;10080;B605;301;http://www.comuni-italiani.it/001/052/
@@ -1265,7 +1265,7 @@
 058017;Canterano;RM;LAZ;0774;00020;B635;369;http://www.comuni-italiani.it/058/017/
 041008;Cantiano;PU;MAR;0721;61044;B636;2420;http://www.comuni-italiani.it/041/008/
 001054;Cantoira;TO;PIE;0123;10070;B637;554;http://www.comuni-italiani.it/001/054/
-013041;Cant˘;CO;LOM;031;22063;B639;39540;http://www.comuni-italiani.it/013/041/
+013041;Cant√π;CO;LOM;031;22063;B639;39540;http://www.comuni-italiani.it/013/041/
 067009;Canzano;TE;ABR;0861;64020;B640;1973;http://www.comuni-italiani.it/067/009/
 013042;Canzo;CO;LOM;031;22035;B641;5144;http://www.comuni-italiani.it/013/042/
 027005;Caorle;VE;VEN;0421;30021;B642;12032;http://www.comuni-italiani.it/027/005/
@@ -1357,7 +1357,7 @@
 028022;Carceri;PD;VEN;0429;35040;B749;1616;http://www.comuni-italiani.it/028/022/
 002029;Carcoforo;VC;PIE;0163;13026;B752;79;http://www.comuni-italiani.it/002/029/
 012032;Cardano al Campo;VA;LOM;0331;21010;B754;14542;http://www.comuni-italiani.it/012/032/
-004042;CardË;CN;PIE;0172;12030;B755;1124;http://www.comuni-italiani.it/004/042/
+004042;Card√®;CN;PIE;0172;12030;B755;1124;http://www.comuni-italiani.it/004/042/
 105004;Cardedu;OG;SAR;0782;08040;M285;1711;http://www.comuni-italiani.it/105/004/
 080022;Cardeto;RC;CAL;0965;89060;B756;1877;http://www.comuni-italiani.it/080/022/
 079018;Cardinale;CZ;CAL;0967;88062;B758;2396;http://www.comuni-italiani.it/079/018/
@@ -1419,12 +1419,12 @@
 071012;Carpino;FG;PUG;0884;71010;B829;4380;http://www.comuni-italiani.it/071/012/
 094008;Carpinone;IS;MOL;0865;86093;B830;1225;http://www.comuni-italiani.it/094/008/
 045003;Carrara;MS;TOS;0585;54033;B832;65573;http://www.comuni-italiani.it/045/003/
-024024;CarrË;VI;VEN;0445;36010;B835;3665;http://www.comuni-italiani.it/024/024/
+024024;Carr√®;VI;VEN;0445;36010;B835;3665;http://www.comuni-italiani.it/024/024/
 006034;Carrega Ligure;AL;PIE;0143;15060;B836;85;http://www.comuni-italiani.it/006/034/
 011009;Carro;SP;LIG;0187;19012;B838;593;http://www.comuni-italiani.it/011/009/
 011010;Carrodano;SP;LIG;0187;19020;B839;535;http://www.comuni-italiani.it/011/010/
 006035;Carrosio;AL;PIE;0143;15060;B840;482;http://www.comuni-italiani.it/006/035/
-004043;Carr˘;CN;PIE;0173;12061;B841;4376;http://www.comuni-italiani.it/004/043/
+004043;Carr√π;CN;PIE;0173;12061;B841;4376;http://www.comuni-italiani.it/004/043/
 066025;Carsoli;AQ;ABR;0863;67061;B842;5607;http://www.comuni-italiani.it/066/025/
 024025;Cartigliano;VI;VEN;0424;36050;B844;3830;http://www.comuni-italiani.it/024/025/
 004044;Cartignano;CN;PIE;0171;12020;B845;180;http://www.comuni-italiani.it/004/044/
@@ -1619,7 +1619,7 @@
 065034;Castel San Giorgio;SA;CAM;081;84083;C259;13728;http://www.comuni-italiani.it/065/034/
 033013;Castel San Giovanni;PC;EMR;0523;29015;C261;13943;http://www.comuni-italiani.it/033/013/
 065035;Castel San Lorenzo;SA;CAM;0828;84049;C262;2708;http://www.comuni-italiani.it/065/035/
-051010;Castel San NiccolÚ;AR;TOS;0575;52018;C263;2778;http://www.comuni-italiani.it/051/010/
+051010;Castel San Niccol√≤;AR;TOS;0575;52018;C263;2778;http://www.comuni-italiani.it/051/010/
 058025;Castel San Pietro Romano;RM;LAZ;06;00030;C266;859;http://www.comuni-italiani.it/058/025/
 037020;Castel San Pietro Terme;BO;EMR;051;40024;C265;20689;http://www.comuni-italiani.it/037/020/
 094012;Castel San Vincenzo;IS;MOL;0865;86071;C270;561;http://www.comuni-italiani.it/094/012/
@@ -1828,7 +1828,7 @@
 083016;Castroreale;ME;SIC;090;98053;C347;2654;http://www.comuni-italiani.it/083/016/
 078032;Castroregio;CS;CAL;0981;87070;C348;360;http://www.comuni-italiani.it/078/032/
 078033;Castrovillari;CS;CAL;0981;87012;C349;22561;http://www.comuni-italiani.it/078/033/
-087015;Catania;CT;SIC;095;951xx;C351;293458;http://www.comuni-italiani.it/087/015/
+087015;Catania;CT;SIC;095;95121-95131;C351;293458;http://www.comuni-italiani.it/087/015/
 079023;Catanzaro;CZ;CAL;0961;88100;C352;93124;http://www.comuni-italiani.it/079/023/
 086006;Catenanuova;EN;SIC;0935;94010;C353;5079;http://www.comuni-italiani.it/086/006/
 068010;Catignano;PE;ABR;085;65011;C354;1480;http://www.comuni-italiani.it/068/010/
@@ -1839,7 +1839,7 @@
 065037;Cava de' Tirreni;SA;CAM;089;84013;C361;53520;http://www.comuni-italiani.it/065/037/
 018041;Cava Manara;PV;LOM;0382;27051;C360;6650;http://www.comuni-italiani.it/018/041/
 098016;Cavacurta;LO;LOM;0377;26844;C362;876;http://www.comuni-italiani.it/098/016/
-096016;Cavagli‡;BI;PIE;0161;13881;C363;3623;http://www.comuni-italiani.it/096/016/
+096016;Cavagli√†;BI;PIE;0161;13881;C363;3623;http://www.comuni-italiani.it/096/016/
 003044;Cavaglietto;NO;PIE;0322;28010;C364;415;http://www.comuni-italiani.it/003/044/
 003045;Cavaglio d'Agogna;NO;PIE;0322;28010;C365;1282;http://www.comuni-italiani.it/003/045/
 103020;Cavaglio-Spoccia;VB;PIE;0323;28825;C367;271;http://www.comuni-italiani.it/103/020/
@@ -1881,8 +1881,8 @@
 049007;Cecina;LI;TOS;0586;57023;C415;28573;http://www.comuni-italiani.it/049/007/
 017047;Cedegolo;BS;LOM;0364;25051;C417;1256;http://www.comuni-italiani.it/017/047/
 014016;Cedrasco;SO;LOM;0342;23010;C418;471;http://www.comuni-italiani.it/014/016/
-082026;Cefal‡ Diana;PA;SIC;091;90030;C420;1014;http://www.comuni-italiani.it/082/026/
-082027;Cefal˘;PA;SIC;0921;90015;C421;13807;http://www.comuni-italiani.it/082/027/
+082026;Cefal√† Diana;PA;SIC;091;90030;C420;1014;http://www.comuni-italiani.it/082/026/
+082027;Cefal√π;PA;SIC;0921;90015;C421;13807;http://www.comuni-italiani.it/082/027/
 027007;Ceggia;VE;VEN;0421;30022;C422;6266;http://www.comuni-italiani.it/027/007/
 074003;Ceglie Messapica;BR;PUG;0831;72013;C424;20690;http://www.comuni-italiani.it/074/003/
 066032;Celano;AQ;ABR;0863;67043;C426;11184;http://www.comuni-italiani.it/066/032/
@@ -1914,7 +1914,7 @@
 016070;Cene;BG;LOM;035;24020;C459;4225;http://www.comuni-italiani.it/016/070/
 029014;Ceneselli;RO;VEN;0425;45030;C461;1875;http://www.comuni-italiani.it/029/014/
 009023;Cengio;SV;LIG;019;17056;C463;3749;http://www.comuni-italiani.it/009/023/
-022056;Centa San NicolÚ;TN;TAA;0461;38040;C467;626;http://www.comuni-italiani.it/022/056/
+022056;Centa San Nicol√≤;TN;TAA;0461;38040;C467;626;http://www.comuni-italiani.it/022/056/
 004061;Centallo;CN;PIE;0171;12044;C466;6733;http://www.comuni-italiani.it/004/061/
 038004;Cento;FE;EMR;051;44042;C469;35582;http://www.comuni-italiani.it/038/004/
 065039;Centola;SA;CAM;0974;84051;C470;5004;http://www.comuni-italiani.it/065/039/
@@ -2005,9 +2005,9 @@
 015074;Cesano Boscone;MI;LOM;02;20090;C565;23935;http://www.comuni-italiani.it/015/074/
 108019;Cesano Maderno;MB;LOM;0362;20811;C566;37291;http://www.comuni-italiani.it/108/019/
 103022;Cesara;VB;PIE;0323;28891;C567;595;http://www.comuni-italiani.it/103/022/
-083017;CesarÚ;ME;SIC;095;98033;C568;2585;http://www.comuni-italiani.it/083/017/
+083017;Cesar√≤;ME;SIC;095;98033;C568;2585;http://www.comuni-italiani.it/083/017/
 015076;Cesate;MI;LOM;02;20020;C569;13977;http://www.comuni-italiani.it/015/076/
-040007;Cesena;FC;EMR;0547;4752x;C573;97056;http://www.comuni-italiani.it/040/007/
+040007;Cesena;FC;EMR;0547;47521-47522;C573;97056;http://www.comuni-italiani.it/040/007/
 040008;Cesenatico;FC;EMR;0547;47042;C574;25633;http://www.comuni-italiani.it/040/008/
 064026;Cesinali;AV;CAM;0825;83020;C576;2570;http://www.comuni-italiani.it/064/026/
 008018;Cesio;IM;LIG;0183;18022;C578;295;http://www.comuni-italiani.it/008/018/
@@ -2092,14 +2092,14 @@
 019030;Cicognolo;CR;LOM;0372;26030;C678;932;http://www.comuni-italiani.it/019/030/
 001083;Ciconio;TO;PIE;0124;10080;C679;365;http://www.comuni-italiani.it/001/083/
 002042;Cigliano;VC;PIE;0161;13043;C680;4586;http://www.comuni-italiani.it/002/042/
-004069;CigliË;CN;PIE;0174;12060;C681;199;http://www.comuni-italiani.it/004/069/
+004069;Cigli√®;CN;PIE;0174;12060;C681;199;http://www.comuni-italiani.it/004/069/
 018049;Cigognola;PV;LOM;0385;27040;C684;1363;http://www.comuni-italiani.it/018/049/
 017053;Cigole;BS;LOM;030;25020;C685;1669;http://www.comuni-italiani.it/017/053/
 018050;Cilavegna;PV;LOM;0381;27024;C686;5653;http://www.comuni-italiani.it/018/050/
 026017;Cimadolmo;TV;VEN;0422;31010;C689;3488;http://www.comuni-italiani.it/026/017/
 017054;Cimbergo;BS;LOM;0364;25050;C691;579;http://www.comuni-italiani.it/017/054/
 022057;Cimego;TN;TAA;0465;38082;C694;413;http://www.comuni-italiani.it/022/057/
-080026;Cimin‡;RC;CAL;0964;89040;C695;598;http://www.comuni-italiani.it/080/026/
+080026;Cimin√†;RC;CAL;0964;89040;C695;598;http://www.comuni-italiani.it/080/026/
 082030;Ciminna;PA;SIC;091;90023;C696;3877;http://www.comuni-italiani.it/082/030/
 063028;Cimitile;NA;CAM;081;80030;C697;7356;http://www.comuni-italiani.it/063/028/
 093014;Cimolais;PN;FVG;0427;33080;C699;431;http://www.comuni-italiani.it/093/014/
@@ -2121,11 +2121,11 @@
 061030;Ciorlano;CE;CAM;0823;81010;C716;443;http://www.comuni-italiani.it/061/030/
 008021;Cipressa;IM;LIG;0183;18017;C718;1370;http://www.comuni-italiani.it/008/021/
 062024;Circello;BN;CAM;0824;82020;C719;2501;http://www.comuni-italiani.it/062/024/
-001086;CiriË;TO;PIE;011;10073;C722;18973;http://www.comuni-italiani.it/001/086/
+001086;Ciri√®;TO;PIE;011;10073;C722;18973;http://www.comuni-italiani.it/001/086/
 077005;Cirigliano;MT;BAS;0835;75010;C723;397;http://www.comuni-italiani.it/077/005/
 013068;Cirimido;CO;LOM;031;22070;C724;2164;http://www.comuni-italiani.it/013/068/
-101007;CirÚ;KR;CAL;0962;88813;C725;3228;http://www.comuni-italiani.it/101/007/
-101008;CirÚ Marina;KR;CAL;0962;88811;C726;14957;http://www.comuni-italiani.it/101/008/
+101007;Cir√≤;KR;CAL;0962;88813;C725;3228;http://www.comuni-italiani.it/101/007/
+101008;Cir√≤ Marina;KR;CAL;0962;88811;C726;14957;http://www.comuni-italiani.it/101/008/
 022060;Cis;TN;TAA;0463;38020;C727;311;http://www.comuni-italiani.it/022/060/
 016074;Cisano Bergamasco;BG;LOM;035;24034;C728;6316;http://www.comuni-italiani.it/016/074/
 009025;Cisano sul Neva;SV;LIG;0182;17035;C729;1947;http://www.comuni-italiani.it/009/025/
@@ -2139,9 +2139,9 @@
 059005;Cisterna di Latina;LT;LAZ;06;04012;C740;35480;http://www.comuni-italiani.it/059/005/
 074005;Cisternino;BR;PUG;080;72014;C741;11884;http://www.comuni-italiani.it/074/005/
 054011;Citerna;PG;UMB;075;06010;C742;3517;http://www.comuni-italiani.it/054/011/
-054012;Citt‡ della Pieve;PG;UMB;0578;06062;C744;7836;http://www.comuni-italiani.it/054/012/
-054013;Citt‡ di Castello;PG;UMB;075;06012;C745;40567;http://www.comuni-italiani.it/054/013/
-068012;Citt‡ Sant'Angelo;PE;ABR;085;65013;C750;14553;http://www.comuni-italiani.it/068/012/
+054012;Citt√† della Pieve;PG;UMB;0578;06062;C744;7836;http://www.comuni-italiani.it/054/012/
+054013;Citt√† di Castello;PG;UMB;075;06012;C745;40567;http://www.comuni-italiani.it/054/013/
+068012;Citt√† Sant'Angelo;PE;ABR;085;65013;C750;14553;http://www.comuni-italiani.it/068/012/
 028032;Cittadella;PD;VEN;049;35013;C743;19970;http://www.comuni-italiani.it/028/032/
 057016;Cittaducale;RI;LAZ;0746;02015;C746;7018;http://www.comuni-italiani.it/057/016/
 080028;Cittanova;RC;CAL;0966;89022;C747;10512;http://www.comuni-italiani.it/080/028/
@@ -2195,7 +2195,7 @@
 028033;Codevigo;PD;VEN;049;35020;C812;6403;http://www.comuni-italiani.it/028/033/
 018051;Codevilla;PV;LOM;0383;27050;C813;1010;http://www.comuni-italiani.it/018/051/
 038005;Codigoro;FE;EMR;0533;44021;C814;12653;http://www.comuni-italiani.it/038/005/
-026019;CodognË;TV;VEN;0438;31013;C815;5386;http://www.comuni-italiani.it/026/019/
+026019;Codogn√®;TV;VEN;0438;31013;C815;5386;http://www.comuni-italiani.it/026/019/
 098019;Codogno;LO;LOM;0377;26845;C816;15765;http://www.comuni-italiani.it/098/019/
 030027;Codroipo;UD;FVG;0432;33033;C817;15887;http://www.comuni-italiani.it/030/027/
 090026;Codrongianos;SS;SAR;079;07040;C818;1374;http://www.comuni-italiani.it/090/026/
@@ -2298,7 +2298,7 @@
 022066;Condino;TN;TAA;0465;38083;C953;1512;http://www.comuni-italiani.it/022/066/
 080029;Condofuri;RC;CAL;0965;89030;C954;4977;http://www.comuni-italiani.it/080/029/
 001093;Condove;TO;PIE;011;10055;C955;4704;http://www.comuni-italiani.it/001/093/
-083018;CondrÚ;ME;SIC;090;98040;C956;495;http://www.comuni-italiani.it/083/018/
+083018;Condr√≤;ME;SIC;090;98040;C956;495;http://www.comuni-italiani.it/083/018/
 026021;Conegliano;TV;VEN;0438;31015;C957;35748;http://www.comuni-italiani.it/026/021/
 018052;Confienza;PV;LOM;0384;27030;C958;1663;http://www.comuni-italiani.it/018/052/
 057024;Configni;RI;LAZ;0746;02040;C959;692;http://www.comuni-italiani.it/057/024/
@@ -2486,7 +2486,7 @@
 004078;Cuneo;CN;PIE;0171;12100;D205;55714;http://www.comuni-italiani.it/004/078/
 022069;Cunevo;TN;TAA;0461;38010;D206;573;http://www.comuni-italiani.it/022/069/
 005051;Cunico;AT;PIE;0141;14026;D207;545;http://www.comuni-italiani.it/005/051/
-001098;CuorgnË;TO;PIE;0124;10082;D208;10141;http://www.comuni-italiani.it/001/098/
+001098;Cuorgn√®;TO;PIE;0124;10082;D208;10141;http://www.comuni-italiani.it/001/098/
 069028;Cupello;CH;ABR;0873;66051;D209;4904;http://www.comuni-italiani.it/069/028/
 044017;Cupra Marittima;AP;MAR;0735;63064;D210;5389;http://www.comuni-italiani.it/044/017/
 042016;Cupramontana;AN;MAR;0731;60034;D211;4929;http://www.comuni-italiani.it/042/016/
@@ -2520,9 +2520,9 @@
 022071;Dambel;TN;TAA;0463;38010;D246;434;http://www.comuni-italiani.it/022/071/
 025017;Danta di Cadore;BL;VEN;0435;32040;D247;514;http://www.comuni-italiani.it/025/017/
 022072;Daone;TN;TAA;0465;38080;D248;603;http://www.comuni-italiani.it/022/072/
-022073;DarË;TN;TAA;0465;38080;D250;259;http://www.comuni-italiani.it/022/073/
+022073;Dar√®;TN;TAA;0465;38080;D250;259;http://www.comuni-italiani.it/022/073/
 017065;Darfo Boario Terme;BS;LOM;0364;25047;D251;15751;http://www.comuni-italiani.it/017/065/
-102007;Das‡;VV;CAL;0963;89832;D253;1216;http://www.comuni-italiani.it/102/007/
+102007;Das√†;VV;CAL;0963;89832;D253;1216;http://www.comuni-italiani.it/102/007/
 010021;Davagna;GE;LIG;010;16022;D255;2018;http://www.comuni-italiani.it/010/021/
 012064;Daverio;VA;LOM;0332;21020;D256;3073;http://www.comuni-italiani.it/012/064/
 079042;Davoli;CZ;CAL;0967;88060;D257;5493;http://www.comuni-italiani.it/079/042/
@@ -2563,11 +2563,11 @@
 003060;Divignano;NO;PIE;0321;28010;D309;1472;http://www.comuni-italiani.it/003/060/
 013087;Dizzasco;CO;LOM;031;22020;D310;578;http://www.comuni-italiani.it/013/087/
 021028;Dobbiaco;BZ;TAA;0474;39034;D311;3292;http://www.comuni-italiani.it/021/028/
-031003;DoberdÚ del Lago;GO;FVG;0481;34070;D312;1462;http://www.comuni-italiani.it/031/003/
+031003;Doberd√≤ del Lago;GO;FVG;0481;34070;D312;1462;http://www.comuni-italiani.it/031/003/
 004081;Dogliani;CN;PIE;0173;12063;D314;4868;http://www.comuni-italiani.it/004/081/
 069029;Dogliola;CH;ABR;0873;66050;D315;399;http://www.comuni-italiani.it/069/029/
 030033;Dogna;UD;FVG;0428;33010;D316;200;http://www.comuni-italiani.it/030/033/
-023031;DolcË;VR;VEN;045;37020;D317;2621;http://www.comuni-italiani.it/023/031/
+023031;Dolc√®;VR;VEN;045;37020;D317;2621;http://www.comuni-italiani.it/023/031/
 008029;Dolceacqua;IM;LIG;0184;18035;D318;2060;http://www.comuni-italiani.it/008/029/
 008030;Dolcedo;IM;LIG;0183;18020;D319;1472;http://www.comuni-italiani.it/008/030/
 031004;Dolegna del Collio;GO;FVG;0481;34070;D321;387;http://www.comuni-italiani.it/031/004/
@@ -2629,7 +2629,7 @@
 097033;Ello;LC;LOM;0341;23848;D398;1281;http://www.comuni-italiani.it/097/033/
 092108;Elmas;CA;SAR;070;09030;D399;9112;http://www.comuni-italiani.it/092/108/
 004083;Elva;CN;PIE;0171;12020;D401;102;http://www.comuni-italiani.it/004/083/
-007025;EmarËse;AO;VDA;0166;11020;D402;223;http://www.comuni-italiani.it/007/025/
+007025;Emar√®se;AO;VDA;0166;11020;D402;223;http://www.comuni-italiani.it/007/025/
 048014;Empoli;FI;TOS;0571;50053;D403;47955;http://www.comuni-italiani.it/048/014/
 016093;Endine Gaiano;BG;LOM;035;24060;D406;3553;http://www.comuni-italiani.it/016/093/
 024039;Enego;VI;VEN;0424;36052;D407;1872;http://www.comuni-italiani.it/024/039/
@@ -2641,7 +2641,7 @@
 076030;Episcopia;PZ;BAS;0973;85033;D414;1488;http://www.comuni-italiani.it/076/030/
 027013;Eraclea;VE;VEN;0421;30020;D415;12799;http://www.comuni-italiani.it/027/013/
 013095;Erba;CO;LOM;031;22036;D416;16949;http://www.comuni-italiani.it/013/095/
-023032;ErbË;VR;VEN;045;37060;D419;1812;http://www.comuni-italiani.it/023/032/
+023032;Erb√®;VR;VEN;045;37060;D419;1812;http://www.comuni-italiani.it/023/032/
 023033;Erbezzo;VR;VEN;045;37020;D420;787;http://www.comuni-italiani.it/023/033/
 017069;Erbusco;BS;LOM;030;25030;D421;8656;http://www.comuni-italiani.it/017/069/
 074006;Erchie;BR;PUG;0831;72020;D422;8947;http://www.comuni-italiani.it/074/006/
@@ -2731,9 +2731,9 @@
 006068;Felizzano;AL;PIE;0131;15023;D528;2475;http://www.comuni-italiani.it/006/068/
 020023;Felonica;MN;LOM;0386;46022;D529;1480;http://www.comuni-italiani.it/020/023/
 025021;Feltre;BL;VEN;0439;32032;D530;20924;http://www.comuni-italiani.it/025/021/
-013100;FenegrÚ;CO;LOM;031;22070;D531;3138;http://www.comuni-italiani.it/013/100/
+013100;Fenegr√≤;CO;LOM;031;22070;D531;3138;http://www.comuni-italiani.it/013/100/
 001103;Fenestrelle;TO;PIE;0121;10060;D532;571;http://www.comuni-italiani.it/001/103/
-007027;FÈnis;AO;VDA;0165;11020;D537;1759;http://www.comuni-italiani.it/007/027/
+007027;F√©nis;AO;VDA;0165;11020;D537;1759;http://www.comuni-italiani.it/007/027/
 055012;Ferentillo;TR;UMB;0744;05034;D538;1981;http://www.comuni-italiani.it/055/012/
 060033;Ferentino;FR;LAZ;0775;03013;D539;21258;http://www.comuni-italiani.it/060/033/
 089008;Ferla;SR;SIC;0931;96010;D540;2599;http://www.comuni-italiani.it/089/008/
@@ -2743,7 +2743,7 @@
 079048;Feroleto Antico;CZ;CAL;0968;88040;D544;2109;http://www.comuni-italiani.it/079/048/
 080032;Feroleto della Chiesa;RC;CAL;0966;89050;D545;1791;http://www.comuni-italiani.it/080/032/
 077008;Ferrandina;MT;BAS;0835;75013;D547;9072;http://www.comuni-italiani.it/077/008/
-038008;Ferrara;FE;EMR;0532;4412x;D548;135369;http://www.comuni-italiani.it/038/008/
+038008;Ferrara;FE;EMR;0532;44121-44124;D548;135369;http://www.comuni-italiani.it/038/008/
 023034;Ferrara di Monte Baldo;VR;VEN;045;37020;D549;226;http://www.comuni-italiani.it/023/034/
 070023;Ferrazzano;CB;MOL;0874;86010;D550;3345;http://www.comuni-italiani.it/070/023/
 012069;Ferrera di Varese;VA;LOM;0332;21030;D551;696;http://www.comuni-italiani.it/012/069/
@@ -2755,13 +2755,13 @@
 001104;Fiano;TO;PIE;011;10070;D562;2744;http://www.comuni-italiani.it/001/104/
 058036;Fiano Romano;RM;LAZ;0765;00065;D561;13978;http://www.comuni-italiani.it/058/036/
 043017;Fiastra;MC;MAR;0737;62035;D564;577;http://www.comuni-italiani.it/043/017/
-022083;FiavË;TN;TAA;0465;38075;D565;1127;http://www.comuni-italiani.it/022/083/
+022083;Fiav√®;TN;TAA;0465;38075;D565;1127;http://www.comuni-italiani.it/022/083/
 082035;Ficarazzi;PA;SIC;091;90010;D567;11997;http://www.comuni-italiani.it/082/035/
 029021;Ficarolo;RO;VEN;0425;45036;D568;2627;http://www.comuni-italiani.it/029/021/
 083020;Ficarra;ME;SIC;0941;98062;D569;1593;http://www.comuni-italiani.it/083/020/
 055013;Ficulle;TR;UMB;0763;05016;D570;1735;http://www.comuni-italiani.it/055/013/
 034014;Fidenza;PR;EMR;0524;43036;B034;26196;http://www.comuni-italiani.it/034/014/
-021031;FiË allo Sciliar;BZ;TAA;0471;39050;D571;3469;http://www.comuni-italiani.it/021/031/
+021031;Fi√® allo Sciliar;BZ;TAA;0471;39050;D571;3469;http://www.comuni-italiani.it/021/031/
 022084;Fiera di Primiero;TN;TAA;0439;38054;D572;533;http://www.comuni-italiani.it/022/084/
 022085;Fierozzo;TN;TAA;0461;38050;D573;477;http://www.comuni-italiani.it/022/085/
 019043;Fiesco;CR;LOM;0374;26010;D574;1179;http://www.comuni-italiani.it/019/043/
@@ -2793,7 +2793,7 @@
 036013;Fiorano Modenese;MO;EMR;0536;41042;D607;17041;http://www.comuni-italiani.it/036/013/
 043018;Fiordimonte;MC;MAR;0737;62035;D609;214;http://www.comuni-italiani.it/043/018/
 033021;Fiorenzuola d'Arda;PC;EMR;0523;29017;D611;15204;http://www.comuni-italiani.it/033/021/
-048017;Firenze;FI;TOS;055;501xx;D612;371282;http://www.comuni-italiani.it/048/017/
+048017;Firenze;FI;TOS;055;50121-50145;D612;371282;http://www.comuni-italiani.it/048/017/
 048018;Firenzuola;FI;TOS;055;50033;D613;4950;http://www.comuni-italiani.it/048/018/
 078054;Firmo;CS;CAL;0981;87010;D614;2257;http://www.comuni-italiani.it/078/054/
 065052;Fisciano;SA;CAM;089;84084;D615;13652;http://www.comuni-italiani.it/065/052/
@@ -2818,7 +2818,7 @@
 107006;Fluminimaggiore;CI;SAR;0781;09010;D639;2992;http://www.comuni-italiani.it/107/006/
 095080;Flussio;OR;SAR;0785;08010;D640;468;http://www.comuni-italiani.it/095/080/
 002057;Fobello;VC;PIE;0163;13025;D641;220;http://www.comuni-italiani.it/002/057/
-071024;Foggia;FG;PUG;0881;7112x;D643;152747;http://www.comuni-italiani.it/071/024/
+071024;Foggia;FG;PUG;0881;71121-71122;D643;152747;http://www.comuni-italiani.it/071/024/
 062030;Foglianise;BN;CAM;0824;82030;D644;3520;http://www.comuni-italiani.it/062/030/
 031006;Fogliano Redipuglia;GO;FVG;0481;34070;D645;3071;http://www.comuni-italiani.it/031/006/
 001106;Foglizzo;TO;PIE;011;10090;D646;2372;http://www.comuni-italiani.it/001/106/
@@ -2867,8 +2867,8 @@
 030137;Forgaria nel Friuli;UD;FVG;0427;33030;D700;1854;http://www.comuni-italiani.it/030/137/
 064034;Forino;AV;CAM;0825;83020;D701;5396;http://www.comuni-italiani.it/064/034/
 063031;Forio;NA;CAM;081;80075;D702;17600;http://www.comuni-italiani.it/063/031/
-040012;ForlÏ;FC;EMR;0543;4712x;D704;118167;http://www.comuni-italiani.it/040/012/
-094020;ForlÏ del Sannio;IS;MOL;0865;86084;D703;740;http://www.comuni-italiani.it/094/020/
+040012;Forl√¨;FC;EMR;0543;47121-47122;D704;118167;http://www.comuni-italiani.it/040/012/
+094020;Forl√¨ del Sannio;IS;MOL;0865;86084;D703;740;http://www.comuni-italiani.it/094/020/
 040013;Forlimpopoli;FC;EMR;0543;47034;D705;13063;http://www.comuni-italiani.it/040/013/
 103031;Formazza;VB;PIE;0324;28863;D706;443;http://www.comuni-italiani.it/103/031/
 058038;Formello;RM;LAZ;06;00060;D707;12802;http://www.comuni-italiani.it/058/038/
@@ -2890,7 +2890,7 @@
 046013;Forte dei Marmi;LU;TOS;0584;55042;D730;7752;http://www.comuni-italiani.it/046/013/
 021032;Fortezza;BZ;TAA;0472;39045;D731;975;http://www.comuni-italiani.it/021/032/
 018064;Fortunago;PV;LOM;0383;27040;D732;391;http://www.comuni-italiani.it/018/064/
-083024;Forza d'AgrÚ;ME;SIC;0942;98030;D733;922;http://www.comuni-italiani.it/083/024/
+083024;Forza d'Agr√≤;ME;SIC;0942;98030;D733;922;http://www.comuni-italiani.it/083/024/
 046014;Fosciandora;LU;TOS;0583;55020;D734;629;http://www.comuni-italiani.it/046/014/
 045008;Fosdinovo;MS;TOS;0187;54035;D735;5054;http://www.comuni-italiani.it/045/008/
 066044;Fossa;AQ;ABR;0862;67020;D736;704;http://www.comuni-italiani.it/066/044/
@@ -2901,7 +2901,7 @@
 004089;Fossano;CN;PIE;0172;12045;D742;24854;http://www.comuni-italiani.it/004/089/
 054019;Fossato di Vico;PG;UMB;075;06022;D745;2893;http://www.comuni-italiani.it/054/019/
 079052;Fossato Serralta;CZ;CAL;0961;88050;D744;607;http://www.comuni-italiani.it/079/052/
-027017;FossÚ;VE;VEN;041;30030;D748;6814;http://www.comuni-italiani.it/027/017/
+027017;Foss√≤;VE;VEN;041;30030;D748;6814;http://www.comuni-italiani.it/027/017/
 041015;Fossombrone;PU;MAR;0721;61034;D749;9823;http://www.comuni-italiani.it/041/015/
 024041;Foza;VI;VEN;0424;36010;D750;726;http://www.comuni-italiani.it/024/041/
 004090;Frabosa Soprana;CN;PIE;0174;12082;D751;823;http://www.comuni-italiani.it/004/090/
@@ -2941,7 +2941,7 @@
 063032;Frattamaggiore;NA;CAM;081;80027;D789;30108;http://www.comuni-italiani.it/063/032/
 063033;Frattaminore;NA;CAM;081;80020;D790;16067;http://www.comuni-italiani.it/063/033/
 041016;Fratte Rosa;PU;MAR;0721;61040;D791;1015;http://www.comuni-italiani.it/041/016/
-083026;FrazzanÚ;ME;SIC;0941;98070;D793;804;http://www.comuni-italiani.it/083/026/
+083026;Frazzan√≤;ME;SIC;0941;98070;D793;804;http://www.comuni-italiani.it/083/026/
 026030;Fregona;TV;VEN;0438;31010;D794;3203;http://www.comuni-italiani.it/026/030/
 069036;Fresagrandinaria;CH;ABR;0873;66050;D796;1085;http://www.comuni-italiani.it/069/036/
 006074;Fresonara;AL;PIE;0143;15064;D797;730;http://www.comuni-italiani.it/006/074/
@@ -3017,7 +3017,7 @@
 061038;Gallo Matese;CE;CAM;0823;81010;D884;678;http://www.comuni-italiani.it/061/038/
 083031;Gallodoro;ME;SIC;0942;98030;D885;389;http://www.comuni-italiani.it/083/031/
 061039;Galluccio;CE;CAM;0823;81044;D886;2275;http://www.comuni-italiani.it/061/039/
-091027;GaltellÏ;NU;SAR;0784;08020;D888;2484;http://www.comuni-italiani.it/091/027/
+091027;Galtell√¨;NU;SAR;0784;08020;D888;2484;http://www.comuni-italiani.it/091/027/
 028040;Galzignano Terme;PD;VEN;049;35030;D889;4436;http://www.comuni-italiani.it/028/040/
 006078;Gamalero;AL;PIE;0131;15010;D890;852;http://www.comuni-italiani.it/006/078/
 017073;Gambara;BS;LOM;030;25020;D891;4809;http://www.comuni-italiani.it/017/073/
@@ -3028,7 +3028,7 @@
 024043;Gambellara;VI;VEN;0444;36053;D897;3400;http://www.comuni-italiani.it/024/043/
 069039;Gamberale;CH;ABR;0872;66040;D898;331;http://www.comuni-italiani.it/069/039/
 040015;Gambettola;FC;EMR;0547;47035;D899;10431;http://www.comuni-italiani.it/040/015/
-018068;GambolÚ;PV;LOM;0381;27025;D901;10231;http://www.comuni-italiani.it/018/068/
+018068;Gambol√≤;PV;LOM;0381;27025;D901;10231;http://www.comuni-italiani.it/018/068/
 024044;Gambugliano;VI;VEN;0444;36050;D902;842;http://www.comuni-italiani.it/024/044/
 016107;Gandellino;BG;LOM;0346;24020;D903;1065;http://www.comuni-italiani.it/016/107/
 016108;Gandino;BG;LOM;035;24024;D905;5697;http://www.comuni-italiani.it/016/108/
@@ -3083,7 +3083,7 @@
 019047;Genivolta;CR;LOM;0374;26020;D966;1188;http://www.comuni-italiani.it/019/047/
 004096;Genola;CN;PIE;0172;12040;D967;2567;http://www.comuni-italiani.it/004/096/
 095081;Genoni;OR;SAR;0782;08030;D968;903;http://www.comuni-italiani.it/095/081/
-010025;Genova;GE;LIG;010;161xx;D969;607906;http://www.comuni-italiani.it/010/025/
+010025;Genova;GE;LIG;010;16121-16167;D969;607906;http://www.comuni-italiani.it/010/025/
 106005;Genuri;VS;SAR;070;09020;D970;353;http://www.comuni-italiani.it/106/005/
 076036;Genzano di Lucania;PZ;BAS;0971;85013;D971;6072;http://www.comuni-italiani.it/076/036/
 058043;Genzano di Roma;RM;LAZ;06;00045;D972;24364;http://www.comuni-italiani.it/058/043/
@@ -3183,7 +3183,7 @@
 107008;Gonnesa;CI;SAR;0781;09010;E086;5161;http://www.comuni-italiani.it/107/008/
 095022;Gonnoscodina;OR;SAR;0783;09090;E087;514;http://www.comuni-italiani.it/095/022/
 106007;Gonnosfanadiga;VS;SAR;070;09035;E085;6917;http://www.comuni-italiani.it/106/007/
-095023;GonnosnÚ;OR;SAR;0783;09090;D585;808;http://www.comuni-italiani.it/095/023/
+095023;Gonnosn√≤;OR;SAR;0783;09090;D585;808;http://www.comuni-italiani.it/095/023/
 095024;Gonnostramatza;OR;SAR;0783;09093;E088;939;http://www.comuni-italiani.it/095/024/
 020027;Gonzaga;MN;LOM;0376;46023;E089;9301;http://www.comuni-italiani.it/020/027/
 014032;Gordona;SO;LOM;0343;23020;E090;1841;http://www.comuni-italiani.it/014/032/
@@ -3246,7 +3246,7 @@
 002065;Greggio;VC;PIE;0161;13030;E163;390;http://www.comuni-italiani.it/002/065/
 006083;Gremiasco;AL;PIE;0131;15056;E164;362;http://www.comuni-italiani.it/006/083/
 007031;Gressan;AO;VDA;0165;11020;E165;3327;http://www.comuni-italiani.it/007/031/
-007032;Gressoney-la-TrinitË;AO;VDA;0125;11020;E167;309;http://www.comuni-italiani.it/007/032/
+007032;Gressoney-la-Trinit√®;AO;VDA;0125;11020;E167;309;http://www.comuni-italiani.it/007/032/
 007033;Gressoney-Saint-Jean;AO;VDA;0125;11025;E168;821;http://www.comuni-italiani.it/007/033/
 048021;Greve in Chianti;FI;TOS;055;50022;E169;14351;http://www.comuni-italiani.it/048/021/
 015110;Grezzago;MI;LOM;02;20056;E170;2804;http://www.comuni-italiani.it/015/110/
@@ -3297,7 +3297,7 @@
 054022;Gualdo Cattaneo;PG;UMB;0742;06035;E229;6472;http://www.comuni-italiani.it/054/022/
 054023;Gualdo Tadino;PG;UMB;075;06023;E230;15740;http://www.comuni-italiani.it/054/023/
 035023;Gualtieri;RE;EMR;0522;42044;E232;6696;http://www.comuni-italiani.it/035/023/
-083035;Gualtieri SicaminÚ;ME;SIC;090;98040;E233;1846;http://www.comuni-italiani.it/083/035/
+083035;Gualtieri Sicamin√≤;ME;SIC;090;98040;E233;1846;http://www.comuni-italiani.it/083/035/
 092030;Guamaggiore;CA;SAR;070;09040;E234;1066;http://www.comuni-italiani.it/092/030/
 013114;Guanzate;CO;LOM;031;22070;E235;5719;http://www.comuni-italiani.it/013/114/
 060042;Guarcino;FR;LAZ;0775;03016;E236;1700;http://www.comuni-italiani.it/060/042/
@@ -3422,7 +3422,7 @@
 007039;La Magdeleine;AO;VDA;0166;11020;A308;116;http://www.comuni-italiani.it/007/039/
 004105;La Morra;CN;PIE;0173;12064;E430;2758;http://www.comuni-italiani.it/004/105/
 007040;La Salle;AO;VDA;0165;11015;E458;2102;http://www.comuni-italiani.it/007/040/
-011015;La Spezia;SP;LIG;0187;191xx;E463;95378;http://www.comuni-italiani.it/011/015/
+011015;La Spezia;SP;LIG;0187;19121-19137;E463;95378;http://www.comuni-italiani.it/011/015/
 007041;La Thuile;AO;VDA;0165;11016;E470;767;http://www.comuni-italiani.it/007/041/
 021117;La Valle;BZ;TAA;0471;39030;E491;1302;http://www.comuni-italiani.it/021/117/
 025027;La Valle Agordina;BL;VEN;0437;32020;E490;1162;http://www.comuni-italiani.it/025/027/
@@ -3609,7 +3609,7 @@
 025030;Livinallongo del Col di Lana;BL;VEN;0436;32020;E622;1405;http://www.comuni-italiani.it/025/030/
 022106;Livo;TN;TAA;0463;38020;E624;905;http://www.comuni-italiani.it/022/106/
 013130;Livo;CO;LOM;0344;22010;E623;198;http://www.comuni-italiani.it/013/130/
-049009;Livorno;LI;TOS;0586;571xx;E625;161131;http://www.comuni-italiani.it/049/009/
+049009;Livorno;LI;TOS;0586;57121-57128;E625;161131;http://www.comuni-italiani.it/049/009/
 002071;Livorno Ferraris;VC;PIE;0161;13046;E626;4529;http://www.comuni-italiani.it/002/071/
 098030;Livraga;LO;LOM;0377;26814;E627;2611;http://www.comuni-italiani.it/098/030/
 075038;Lizzanello;LE;PUG;0832;73023;E629;11788;http://www.comuni-italiani.it/075/038/
@@ -3625,7 +3625,7 @@
 072025;Locorotondo;BA;PUG;080;70010;E645;14231;http://www.comuni-italiani.it/072/025/
 080043;Locri;RC;CAL;0964;89044;D976;12877;http://www.comuni-italiani.it/080/043/
 091040;Loculi;NU;SAR;0784;08020;E646;513;http://www.comuni-italiani.it/091/040/
-091041;LodË;NU;SAR;0784;08020;E647;1935;http://www.comuni-italiani.it/091/041/
+091041;Lod√®;NU;SAR;0784;08020;E647;1935;http://www.comuni-italiani.it/091/041/
 098031;Lodi;LO;LOM;0371;26900;E648;44401;http://www.comuni-italiani.it/098/031/
 098032;Lodi Vecchio;LO;LOM;0371;26855;E651;7401;http://www.comuni-italiani.it/098/032/
 091104;Lodine;NU;SAR;0784;08020;E649;380;http://www.comuni-italiani.it/091/104/
@@ -3654,7 +3654,7 @@
 013134;Longone al Segrino;CO;LOM;031;22030;E679;1789;http://www.comuni-italiani.it/013/134/
 057034;Longone Sabino;RI;LAZ;0765;02020;E681;604;http://www.comuni-italiani.it/057/034/
 024052;Lonigo;VI;VEN;0444;36045;E682;16322;http://www.comuni-italiani.it/024/052/
-001137;LoranzË;TO;PIE;0125;10010;E683;1106;http://www.comuni-italiani.it/001/137/
+001137;Loranz√®;TO;PIE;0125;10010;E683;1106;http://www.comuni-italiani.it/001/137/
 028046;Loreggia;PD;VEN;049;35010;E684;7259;http://www.comuni-italiani.it/028/046/
 103038;Loreglia;VB;PIE;0323;28893;E685;270;http://www.comuni-italiani.it/103/038/
 025032;Lorenzago di Cadore;BL;VEN;0435;32040;E687;579;http://www.comuni-italiani.it/025/032/
@@ -3714,7 +3714,7 @@
 030051;Lusevera;UD;FVG;0432;33010;E760;711;http://www.comuni-italiani.it/030/051/
 029031;Lusia;RO;VEN;0425;45020;E761;3629;http://www.comuni-italiani.it/029/031/
 024054;Lusiana;VI;VEN;0424;36046;E762;2818;http://www.comuni-italiani.it/024/054/
-001141;LusigliË;TO;PIE;0124;10080;E763;561;http://www.comuni-italiani.it/001/141/
+001141;Lusigli√®;TO;PIE;0124;10080;E763;561;http://www.comuni-italiani.it/001/141/
 021044;Luson;BZ;TAA;0472;39040;E764;1539;http://www.comuni-italiani.it/021/044/
 065064;Lustra;SA;CAM;0974;84050;E767;1110;http://www.comuni-italiani.it/065/064/
 012093;Luvinate;VA;LOM;0332;21020;E769;1334;http://www.comuni-italiani.it/012/093/
@@ -3764,10 +3764,10 @@
 096030;Magnano;BI;PIE;015;13887;E821;387;http://www.comuni-italiani.it/096/030/
 030052;Magnano in Riviera;UD;FVG;0432;33010;E820;2393;http://www.comuni-italiani.it/030/052/
 095083;Magomadas;OR;SAR;0785;08010;E825;655;http://www.comuni-italiani.it/095/083/
-021045;MagrË sulla Strada del Vino;BZ;TAA;0471;39040;E829;1302;http://www.comuni-italiani.it/021/045/
+021045;Magr√® sulla Strada del Vino;BZ;TAA;0471;39040;E829;1302;http://www.comuni-italiani.it/021/045/
 013139;Magreglio;CO;LOM;031;22030;E830;666;http://www.comuni-italiani.it/013/139/
 079069;Maida;CZ;CAL;0968;88025;E834;4453;http://www.comuni-italiani.it/079/069/
-078071;Maier‡;CS;CAL;0985;87020;E835;1254;http://www.comuni-italiani.it/078/071/
+078071;Maier√†;CS;CAL;0985;87020;E835;1254;http://www.comuni-italiani.it/078/071/
 102020;Maierato;VV;CAL;0963;89843;E836;2279;http://www.comuni-italiani.it/102/020/
 042023;Maiolati Spontini;AN;MAR;0731;60030;E837;6199;http://www.comuni-italiani.it/042/023/
 099022;Maiolo;RN;EMR;0541;47862;E838;854;http://www.comuni-italiani.it/099/022/
@@ -3780,7 +3780,7 @@
 037035;Malalbergo;BO;EMR;051;40051;E844;8810;http://www.comuni-italiani.it/037/035/
 030054;Malborghetto Valbruna;UD;FVG;0428;33010;E847;965;http://www.comuni-italiani.it/030/054/
 023045;Malcesine;VR;VEN;045;37018;E848;3748;http://www.comuni-italiani.it/023/045/
-022110;MalË;TN;TAA;0463;38027;E850;2133;http://www.comuni-italiani.it/022/110/
+022110;Mal√®;TN;TAA;0463;38027;E850;2133;http://www.comuni-italiani.it/022/110/
 017100;Malegno;BS;LOM;0364;25053;E851;2115;http://www.comuni-italiani.it/017/100/
 098035;Maleo;LO;LOM;0377;26847;E852;3280;http://www.comuni-italiani.it/098/035/
 103041;Malesco;VB;PIE;0324;28854;E853;1478;http://www.comuni-italiani.it/103/041/
@@ -3818,7 +3818,7 @@
 093025;Maniago;PN;FVG;0427;33085;E889;11968;http://www.comuni-italiani.it/093/025/
 064046;Manocalzati;AV;CAM;0825;83030;E891;3280;http://www.comuni-italiani.it/064/046/
 068022;Manoppello;PE;ABR;085;65024;E892;6952;http://www.comuni-italiani.it/068/022/
-026037;MansuË;TV;VEN;0422;31040;E893;4989;http://www.comuni-italiani.it/026/037/
+026037;Mansu√®;TV;VEN;0422;31040;E893;4989;http://www.comuni-italiani.it/026/037/
 004116;Manta;CN;PIE;0175;12030;E894;3716;http://www.comuni-italiani.it/004/116/
 014039;Mantello;SO;LOM;0342;23016;E896;755;http://www.comuni-italiani.it/014/039/
 020030;Mantova;MN;LOM;0376;46100;E897;48612;http://www.comuni-italiani.it/020/030/
@@ -3917,7 +3917,7 @@
 012100;Masciago Primo;VA;LOM;0332;21030;F007;289;http://www.comuni-italiani.it/012/100/
 026039;Maser;TV;VEN;0423;31010;F009;4980;http://www.comuni-italiani.it/026/039/
 103042;Masera;VB;PIE;0324;28855;F010;1521;http://www.comuni-italiani.it/103/042/
-028048;Maser‡ di Padova;PD;VEN;049;35020;F011;9071;http://www.comuni-italiani.it/028/048/
+028048;Maser√† di Padova;PD;VEN;049;35020;F011;9071;http://www.comuni-italiani.it/028/048/
 026040;Maserada sul Piave;TV;VEN;0422;31052;F012;9394;http://www.comuni-italiani.it/026/040/
 028049;Masi;PD;VEN;0425;35040;F013;1796;http://www.comuni-italiani.it/028/049/
 038012;Masi Torello;FE;EMR;0532;44020;F016;2386;http://www.comuni-italiani.it/038/012/
@@ -3959,9 +3959,9 @@
 017107;Mazzano;BS;LOM;030;25080;F063;11713;http://www.comuni-italiani.it/017/107/
 058058;Mazzano Romano;RM;LAZ;06;00060;F064;3064;http://www.comuni-italiani.it/058/058/
 085009;Mazzarino;CL;SIC;0934;93013;F065;11946;http://www.comuni-italiani.it/085/009/
-083046;Mazzarr‡ Sant'Andrea;ME;SIC;0941;98056;F066;1589;http://www.comuni-italiani.it/083/046/
+083046;Mazzarr√† Sant'Andrea;ME;SIC;0941;98056;F066;1589;http://www.comuni-italiani.it/083/046/
 087056;Mazzarrone;CT;SIC;0933;95040;M271;4001;http://www.comuni-italiani.it/087/056/
-001148;MazzË;TO;PIE;011;10035;F067;4177;http://www.comuni-italiani.it/001/148/
+001148;Mazz√®;TO;PIE;011;10035;F067;4177;http://www.comuni-italiani.it/001/148/
 022113;Mazzin;TN;TAA;0462;38030;F068;498;http://www.comuni-italiani.it/022/113/
 014040;Mazzo di Valtellina;SO;LOM;0342;23030;F070;1061;http://www.comuni-italiani.it/014/040/
 001149;Meana di Susa;TO;PIE;0122;10050;F074;903;http://www.comuni-italiani.it/001/149/
@@ -3989,7 +3989,7 @@
 075043;Melendugno;LE;PUG;0832;73026;F101;9838;http://www.comuni-italiani.it/075/043/
 098038;Meleti;LO;LOM;0377;26843;F102;475;http://www.comuni-italiani.it/098/038/
 076048;Melfi;PZ;BAS;0972;85025;F104;17554;http://www.comuni-italiani.it/076/048/
-080048;Melicucc‡;RC;CAL;0966;89020;F105;1004;http://www.comuni-italiani.it/080/048/
+080048;Melicucc√†;RC;CAL;0966;89020;F105;1004;http://www.comuni-italiani.it/080/048/
 080049;Melicucco;RC;CAL;0966;89020;F106;5206;http://www.comuni-italiani.it/080/049/
 089012;Melilli;SR;SIC;0931;96010;F107;13304;http://www.comuni-italiani.it/089/012/
 101014;Melissa;KR;CAL;0962;88814;F108;3609;http://www.comuni-italiani.it/101/014/
@@ -4024,7 +4024,7 @@
 030058;Mereto di Tomba;UD;FVG;0432;33036;F144;2736;http://www.comuni-italiani.it/030/058/
 042024;Mergo;AN;MAR;0731;60030;F145;1098;http://www.comuni-italiani.it/042/024/
 103044;Mergozzo;VB;PIE;0323;28802;F146;2167;http://www.comuni-italiani.it/103/044/
-083047;MerÏ;ME;SIC;090;98040;F147;2407;http://www.comuni-italiani.it/083/047/
+083047;Mer√¨;ME;SIC;090;98040;F147;2407;http://www.comuni-italiani.it/083/047/
 028053;Merlara;PD;VEN;0429;35040;F148;2856;http://www.comuni-italiani.it/028/053/
 098039;Merlino;LO;LOM;02;26833;F149;1778;http://www.comuni-italiani.it/098/039/
 013147;Merone;CO;LOM;031;22046;F151;4124;http://www.comuni-italiani.it/013/147/
@@ -4034,7 +4034,7 @@
 015144;Mesero;MI;LOM;02;20010;F155;3915;http://www.comuni-italiani.it/015/144/
 038014;Mesola;FE;EMR;0533;44026;F156;7190;http://www.comuni-italiani.it/038/014/
 101015;Mesoraca;KR;CAL;0962;88838;F157;6787;http://www.comuni-italiani.it/101/015/
-083048;Messina;ME;SIC;090;981xx;F158;242503;http://www.comuni-italiani.it/083/048/
+083048;Messina;ME;SIC;090;98121-98168;F158;242503;http://www.comuni-italiani.it/083/048/
 028054;Mestrino;PD;VEN;049;35035;F161;10986;http://www.comuni-italiani.it/028/054/
 063046;Meta;NA;CAM;081;80062;F162;8041;http://www.comuni-italiani.it/063/046/
 001151;Meugliano;TO;PIE;0125;10080;F164;96;http://www.comuni-italiani.it/001/151/
@@ -4068,7 +4068,7 @@
 077015;Miglionico;MT;BAS;0835;75010;F201;2573;http://www.comuni-italiani.it/077/015/
 010035;Mignanego;GE;LIG;010;16018;F202;3764;http://www.comuni-italiani.it/010/035/
 061051;Mignano Monte Lungo;CE;CAM;0823;81049;F203;3290;http://www.comuni-italiani.it/061/051/
-015146;Milano;MI;LOM;02;201xx;F205;1324110;http://www.comuni-italiani.it/015/146/
+015146;Milano;MI;LOM;02;20121-20162;F205;1324110;http://www.comuni-italiani.it/015/146/
 083049;Milazzo;ME;SIC;090;98057;F206;32601;http://www.comuni-italiani.it/083/049/
 085010;Milena;CL;SIC;0934;93010;E618;3201;http://www.comuni-italiani.it/085/010/
 102021;Mileto;VV;CAL;0963;89852;F207;7017;http://www.comuni-italiani.it/102/021/
@@ -4108,7 +4108,7 @@
 083052;Mistretta;ME;SIC;0921;98073;F251;5079;http://www.comuni-italiani.it/083/052/
 005063;Moasca;AT;PIE;0141;14050;F254;462;http://www.comuni-italiani.it/005/063/
 010036;Moconesi;GE;LIG;0185;16047;F256;2738;http://www.comuni-italiani.it/010/036/
-036023;Modena;MO;EMR;059;4112x;F257;184663;http://www.comuni-italiani.it/036/023/
+036023;Modena;MO;EMR;059;41121-41126;F257;184663;http://www.comuni-italiani.it/036/023/
 088006;Modica;RG;SIC;0932;97015;F258;55196;http://www.comuni-italiani.it/088/006/
 040022;Modigliana;FC;EMR;0546;47015;F259;4815;http://www.comuni-italiani.it/040/022/
 095084;Modolo;OR;SAR;0785;08019;F261;170;http://www.comuni-italiani.it/095/084/
@@ -4179,7 +4179,7 @@
 099006;Mondaino;RN;EMR;0541;47836;F346;1478;http://www.comuni-italiani.it/099/006/
 041028;Mondavio;PU;MAR;0721;61040;F347;3974;http://www.comuni-italiani.it/041/028/
 041029;Mondolfo;PU;MAR;0721;61037;F348;11971;http://www.comuni-italiani.it/041/029/
-004130;MondovÏ;CN;PIE;0174;12084;F351;22605;http://www.comuni-italiani.it/004/130/
+004130;Mondov√¨;CN;PIE;0174;12084;F351;22605;http://www.comuni-italiani.it/004/130/
 061052;Mondragone;CE;CAM;0823;81034;F352;27405;http://www.comuni-italiani.it/061/052/
 010037;Moneglia;GE;LIG;0185;16030;F354;2898;http://www.comuni-italiani.it/010/037/
 004131;Monesiglio;CN;PIE;0174;12077;F355;733;http://www.comuni-italiani.it/004/131/
@@ -4208,7 +4208,7 @@
 028055;Monselice;PD;VEN;0429;35043;F382;17616;http://www.comuni-italiani.it/028/055/
 092109;Monserrato;CA;SAR;070;09042;F383;20240;http://www.comuni-italiani.it/092/109/
 047009;Monsummano Terme;PT;TOS;0572;51015;F384;21374;http://www.comuni-italiani.it/047/009/
-004133;Mont‡;CN;PIE;0173;12046;F385;4712;http://www.comuni-italiani.it/004/133/
+004133;Mont√†;CN;PIE;0173;12046;F385;4712;http://www.comuni-italiani.it/004/133/
 005072;Montabone;AT;PIE;0141;14040;F386;364;http://www.comuni-italiani.it/005/072/
 006102;Montacuto;AL;PIE;0131;15050;F387;308;http://www.comuni-italiani.it/006/102/
 005073;Montafia;AT;PIE;0141;14014;F390;956;http://www.comuni-italiani.it/005/073/
@@ -4225,7 +4225,7 @@
 052014;Montalcino;SI;TOS;0577;53024;F402;5272;http://www.comuni-italiani.it/052/014/
 006103;Montaldeo;AL;PIE;0143;15060;F403;292;http://www.comuni-italiani.it/006/103/
 006104;Montaldo Bormida;AL;PIE;0143;15010;F404;709;http://www.comuni-italiani.it/006/104/
-004134;Montaldo di MondovÏ;CN;PIE;0174;12080;F405;582;http://www.comuni-italiani.it/004/134/
+004134;Montaldo di Mondov√¨;CN;PIE;0174;12080;F405;582;http://www.comuni-italiani.it/004/134/
 004135;Montaldo Roero;CN;PIE;0172;12040;F408;872;http://www.comuni-italiani.it/004/135/
 005074;Montaldo Scarampi;AT;PIE;0141;14048;F409;791;http://www.comuni-italiani.it/005/074/
 001158;Montaldo Torinese;TO;PIE;011;10020;F407;714;http://www.comuni-italiani.it/001/158/
@@ -4465,7 +4465,7 @@
 024068;Montorso Vicentino;VI;VEN;0444;36050;F696;3186;http://www.comuni-italiani.it/024/068/
 109027;Montottone;FM;MAR;0734;63843;F697;1013;http://www.comuni-italiani.it/109/027/
 095085;Montresta;OR;SAR;0785;08010;F698;559;http://www.comuni-italiani.it/095/085/
-018100;Mont˘ Beccaria;PV;LOM;0385;27040;F701;1772;http://www.comuni-italiani.it/018/100/
+018100;Mont√π Beccaria;PV;LOM;0385;27040;F701;1772;http://www.comuni-italiani.it/018/100/
 012104;Monvalle;VA;LOM;0332;21020;F703;1991;http://www.comuni-italiani.it/012/104/
 108033;Monza;MB;LOM;039;20900;F704;122712;http://www.comuni-italiani.it/108/033/
 020036;Monzambano;MN;LOM;0376;46040;F705;4859;http://www.comuni-italiani.it/020/036/
@@ -4545,7 +4545,7 @@
 016143;Mozzo;BG;LOM;035;24030;F791;7488;http://www.comuni-italiani.it/016/143/
 043034;Muccia;MC;MAR;0737;62034;F793;930;http://www.comuni-italiani.it/043/034/
 032003;Muggia;TS;FVG;040;34015;F795;13410;http://www.comuni-italiani.it/032/003/
-108034;MuggiÚ;MB;LOM;039;20835;F797;23433;http://www.comuni-italiani.it/108/034/
+108034;Muggi√≤;MB;LOM;039;20835;F797;23433;http://www.comuni-italiani.it/108/034/
 064065;Mugnano del Cardinale;AV;CAM;081;83027;F798;5376;http://www.comuni-italiani.it/064/065/
 063048;Mugnano di Napoli;NA;CAM;081;80018;F799;34582;http://www.comuni-italiani.it/063/048/
 098041;Mulazzano;LO;LOM;02;26837;F801;5768;http://www.comuni-italiani.it/098/041/
@@ -4572,10 +4572,10 @@
 021055;Nalles;BZ;TAA;0471;39010;F836;1826;http://www.comuni-italiani.it/021/055/
 022125;Nanno;TN;TAA;0463;38010;F837;632;http://www.comuni-italiani.it/022/125/
 024071;Nanto;VI;VEN;0444;36024;F838;3059;http://www.comuni-italiani.it/024/071/
-063049;Napoli;NA;CAM;081;801xx;F839;959574;http://www.comuni-italiani.it/063/049/
+063049;Napoli;NA;CAM;081;80121-80147;F839;959574;http://www.comuni-italiani.it/063/049/
 095031;Narbolia;OR;SAR;0783;09070;F840;1802;http://www.comuni-italiani.it/095/031/
 107012;Narcao;CI;SAR;0781;09010;F841;3390;http://www.comuni-italiani.it/107/012/
-075052;NardÚ;LE;PUG;0833;73048;F842;31952;http://www.comuni-italiani.it/075/052/
+075052;Nard√≤;LE;PUG;0833;73048;F842;31952;http://www.comuni-italiani.it/075/052/
 102024;Nardodipace;VV;CAL;0963;89824;F843;1414;http://www.comuni-italiani.it/102/024/
 055022;Narni;TR;UMB;0744;05035;F844;20331;http://www.comuni-italiani.it/055/022/
 084026;Naro;AG;SIC;0922;92028;F845;8245;http://www.comuni-italiani.it/084/026/
@@ -4641,7 +4641,7 @@
 022127;Nogaredo;TN;TAA;0464;38060;F920;1959;http://www.comuni-italiani.it/022/127/
 023054;Nogarole Rocca;VR;VEN;045;37060;F921;3448;http://www.comuni-italiani.it/023/054/
 024072;Nogarole Vicentino;VI;VEN;0444;36070;F922;1142;http://www.comuni-italiani.it/024/072/
-072032;Noic‡ttaro;BA;PUG;080;70016;F923;25835;http://www.comuni-italiani.it/072/032/
+072032;Noic√†ttaro;BA;PUG;080;70016;F923;25835;http://www.comuni-italiani.it/072/032/
 063050;Nola;NA;CAM;081;80035;F924;32761;http://www.comuni-italiani.it/063/050/
 001166;Nole;TO;PIE;011;10076;F925;6907;http://www.comuni-italiani.it/001/166/
 009042;Noli;SV;LIG;019;17026;F926;2861;http://www.comuni-italiani.it/009/042/
@@ -4681,7 +4681,7 @@
 015158;Noviglio;MI;LOM;02;20082;F968;4459;http://www.comuni-italiani.it/015/158/
 075055;Novoli;LE;PUG;0832;73051;F970;8200;http://www.comuni-italiani.it/075/055/
 004153;Nucetto;CN;PIE;0174;12070;F972;436;http://www.comuni-italiani.it/004/153/
-090044;Nughedu San NicolÚ;SS;SAR;079;07010;F975;888;http://www.comuni-italiani.it/090/044/
+090044;Nughedu San Nicol√≤;SS;SAR;079;07010;F975;888;http://www.comuni-italiani.it/090/044/
 095034;Nughedu Santa Vittoria;OR;SAR;0783;09080;F974;520;http://www.comuni-italiani.it/095/034/
 090045;Nule;SS;SAR;079;07010;F976;1443;http://www.comuni-italiani.it/090/045/
 090046;Nulvi;SS;SAR;079;07032;F977;2877;http://www.comuni-italiani.it/090/046/
@@ -4752,7 +4752,7 @@
 017123;Ome;BS;LOM;030;25050;G061;3273;http://www.comuni-italiani.it/017/123/
 103050;Omegna;VB;PIE;0323;28887;G062;15991;http://www.comuni-italiani.it/103/050/
 065084;Omignano;SA;CAM;0974;84060;G063;1570;http://www.comuni-italiani.it/065/084/
-091058;OnanÏ;NU;SAR;0784;08020;G064;457;http://www.comuni-italiani.it/091/058/
+091058;Onan√¨;NU;SAR;0784;08020;G064;457;http://www.comuni-italiani.it/091/058/
 056040;Onano;VT;LAZ;0763;01010;G065;1040;http://www.comuni-italiani.it/056/040/
 004154;Oncino;CN;PIE;0175;12030;G066;81;http://www.comuni-italiani.it/004/154/
 016148;Oneta;BG;LOM;035;24020;G068;661;http://www.comuni-italiani.it/016/148/
@@ -4890,7 +4890,7 @@
 015166;Paderno Dugnano;MI;LOM;02;20037;G220;47695;http://www.comuni-italiani.it/015/166/
 017130;Paderno Franciacorta;BS;LOM;030;25050;G217;3765;http://www.comuni-italiani.it/017/130/
 019065;Paderno Ponchielli;CR;LOM;0374;26024;G222;1499;http://www.comuni-italiani.it/019/065/
-028060;Padova;PD;VEN;049;351xx;G224;214198;http://www.comuni-italiani.it/028/060/
+028060;Padova;PD;VEN;049;35121-35143;G224;214198;http://www.comuni-italiani.it/028/060/
 090053;Padria;SS;SAR;079;07015;G225;710;http://www.comuni-italiani.it/090/053/
 104019;Padru;OT;SAR;0789;07020;M301;2174;http://www.comuni-italiani.it/104/019/
 065087;Padula;SA;CAM;0975;84034;G226;5523;http://www.comuni-italiani.it/065/087/
@@ -4930,7 +4930,7 @@
 048031;Palazzuolo sul Senio;FI;TOS;055;50035;G270;1198;http://www.comuni-italiani.it/048/031/
 069060;Palena;CH;ABR;0872;66017;G271;1424;http://www.comuni-italiani.it/069/060/
 079089;Palermiti;CZ;CAL;0961;88050;G272;1293;http://www.comuni-italiani.it/079/089/
-082053;Palermo;PA;SIC;091;901xx;G273;655875;http://www.comuni-italiani.it/082/053/
+082053;Palermo;PA;SIC;091;90121-90151;G273;655875;http://www.comuni-italiani.it/082/053/
 058074;Palestrina;RM;LAZ;06;00036;G274;21602;http://www.comuni-italiani.it/058/074/
 018107;Palestro;PV;LOM;0384;27030;G275;2001;http://www.comuni-italiani.it/018/107/
 060046;Paliano;FR;LAZ;0775;03018;G276;8330;http://www.comuni-italiani.it/060/046/
@@ -4951,14 +4951,14 @@
 069062;Palombaro;CH;ABR;0871;66010;G294;1131;http://www.comuni-italiani.it/069/062/
 065089;Palomonte;SA;CAM;0828;84020;G292;4151;http://www.comuni-italiani.it/065/089/
 016157;Palosco;BG;LOM;035;24050;G295;5801;http://www.comuni-italiani.it/016/157/
-023056;Pal˘;VR;VEN;045;37050;G297;1285;http://www.comuni-italiani.it/023/056/
-022133;Pal˘ del Fersina;TN;TAA;0461;38050;G296;177;http://www.comuni-italiani.it/022/133/
+023056;Pal√π;VR;VEN;045;37050;G297;1285;http://www.comuni-italiani.it/023/056/
+022133;Pal√π del Fersina;TN;TAA;0461;38050;G296;177;http://www.comuni-italiani.it/022/133/
 078089;Paludi;CS;CAL;0983;87060;G298;1168;http://www.comuni-italiani.it/078/089/
 030071;Paluzza;UD;FVG;0433;33026;G300;2403;http://www.comuni-italiani.it/030/071/
 004159;Pamparato;CN;PIE;0174;12087;G302;336;http://www.comuni-italiani.it/004/159/
 001178;Pancalieri;TO;PIE;011;10060;G303;2019;http://www.comuni-italiani.it/001/178/
 018108;Pancarana;PV;LOM;0383;27050;G304;336;http://www.comuni-italiani.it/018/108/
-022134;Panchi‡;TN;TAA;0462;38030;G305;764;http://www.comuni-italiani.it/022/134/
+022134;Panchi√†;TN;TAA;0462;38030;G305;764;http://www.comuni-italiani.it/022/134/
 019067;Pandino;CR;LOM;0373;26025;G306;9147;http://www.comuni-italiani.it/019/067/
 078090;Panettieri;CS;CAL;0968;87050;G307;344;http://www.comuni-italiani.it/078/090/
 054037;Panicale;PG;UMB;075;06064;G308;5983;http://www.comuni-italiani.it/054/037/
@@ -4974,14 +4974,14 @@
 075059;Parabita;LE;PUG;0833;73052;G325;9374;http://www.comuni-italiani.it/075/059/
 017134;Paratico;BS;LOM;035;25030;G327;4444;http://www.comuni-italiani.it/017/134/
 021062;Parcines;BZ;TAA;0473;39020;G328;3533;http://www.comuni-italiani.it/021/062/
-013175;ParË;CO;LOM;031;22020;G329;1763;http://www.comuni-italiani.it/013/175/
+013175;Par√®;CO;LOM;031;22020;G329;1763;http://www.comuni-italiani.it/013/175/
 001179;Parella;TO;PIE;0125;10010;G330;479;http://www.comuni-italiani.it/001/179/
 078093;Parenti;CS;CAL;0984;87040;G331;2287;http://www.comuni-italiani.it/078/093/
 061054;Parete;CE;CAM;081;81030;G333;11001;http://www.comuni-italiani.it/061/054/
 006125;Pareto;AL;PIE;019;15010;G334;634;http://www.comuni-italiani.it/006/125/
 102026;Parghelia;VV;CAL;0963;89861;G335;1348;http://www.comuni-italiani.it/102/026/
 097064;Parlasco;LC;LOM;0341;23837;G336;141;http://www.comuni-italiani.it/097/064/
-034027;Parma;PR;EMR;0521;4312x;G337;186690;http://www.comuni-italiani.it/034/027/
+034027;Parma;PR;EMR;0521;43121-43126;G337;186690;http://www.comuni-italiani.it/034/027/
 006126;Parodi Ligure;AL;PIE;0143;15060;G338;747;http://www.comuni-italiani.it/006/126/
 004160;Paroldo;CN;PIE;0174;12070;G339;239;http://www.comuni-italiani.it/004/160/
 064069;Parolise;AV;CAM;0825;83050;G340;706;http://www.comuni-italiani.it/064/069/
@@ -5004,13 +5004,13 @@
 006127;Pasturana;AL;PIE;0143;15060;G367;1217;http://www.comuni-italiani.it/006/127/
 097065;Pasturo;LC;LOM;0341;23818;G368;1957;http://www.comuni-italiani.it/097/065/
 076100;Paterno;PZ;BAS;0975;85050;M269;3452;http://www.comuni-italiani.it/076/100/
-087033;PaternÚ;CT;SIC;095;95047;G371;49578;http://www.comuni-italiani.it/087/033/
+087033;Patern√≤;CT;SIC;095;95047;G371;49578;http://www.comuni-italiani.it/087/033/
 078094;Paterno Calabro;CS;CAL;0984;87040;G372;1352;http://www.comuni-italiani.it/078/094/
 064070;Paternopoli;AV;CAM;0827;83052;G370;2603;http://www.comuni-italiani.it/064/070/
 060048;Patrica;FR;LAZ;0775;03010;G374;3147;http://www.comuni-italiani.it/060/048/
 090055;Pattada;SS;SAR;079;07016;G376;3283;http://www.comuni-italiani.it/090/055/
 083066;Patti;ME;SIC;0941;98066;G377;13611;http://www.comuni-italiani.it/083/066/
-075060;Pat˘;LE;PUG;0833;73053;G378;1740;http://www.comuni-italiani.it/075/060/
+075060;Pat√π;LE;PUG;0833;73053;G378;1740;http://www.comuni-italiani.it/075/060/
 095040;Pau;OR;SAR;0783;09090;G379;309;http://www.comuni-italiani.it/095/040/
 030073;Paularo;UD;FVG;0433;33027;G381;2782;http://www.comuni-italiani.it/030/073/
 106012;Pauli Arbarei;VS;SAR;070;09020;G382;648;http://www.comuni-italiani.it/106/012/
@@ -5089,11 +5089,11 @@
 017140;Pertica Bassa;BS;LOM;0365;25078;G475;698;http://www.comuni-italiani.it/017/140/
 065093;Pertosa;SA;CAM;0975;84030;G476;714;http://www.comuni-italiani.it/065/093/
 001187;Pertusio;TO;PIE;0124;10080;G477;772;http://www.comuni-italiani.it/001/187/
-054039;Perugia;PG;UMB;075;061xx;G478;168169;http://www.comuni-italiani.it/054/039/
-041044;Pesaro;PU;MAR;0721;6112x;G479;95011;http://www.comuni-italiani.it/041/044/
+054039;Perugia;PG;UMB;075;06121-06135;G478;168169;http://www.comuni-italiani.it/054/039/
+041044;Pesaro;PU;MAR;0721;61121-61122;G479;95011;http://www.comuni-italiani.it/041/044/
 046022;Pescaglia;LU;TOS;0583;55064;G480;3758;http://www.comuni-italiani.it/046/022/
 023058;Pescantina;VR;VEN;045;37026;G481;16390;http://www.comuni-italiani.it/023/058/
-068028;Pescara;PE;ABR;085;6512x;G482;123077;http://www.comuni-italiani.it/068/028/
+068028;Pescara;PE;ABR;085;65121-65129;G482;123077;http://www.comuni-italiani.it/068/028/
 019069;Pescarolo ed Uniti;CR;LOM;0372;26033;G483;1608;http://www.comuni-italiani.it/019/069/
 066068;Pescasseroli;AQ;ABR;0863;67032;G484;2271;http://www.comuni-italiani.it/066/068/
 097068;Pescate;LC;LOM;0341;23855;G485;2188;http://www.comuni-italiani.it/097/068/
@@ -5125,7 +5125,7 @@
 043036;Petriolo;MC;MAR;0733;62014;G515;2070;http://www.comuni-italiani.it/043/036/
 109031;Petritoli;FM;MAR;0734;63848;G516;2483;http://www.comuni-italiani.it/109/031/
 079094;Petrizzi;CZ;CAL;0967;88060;G517;1167;http://www.comuni-italiani.it/079/094/
-079095;Petron‡;CZ;CAL;0961;88050;G518;2697;http://www.comuni-italiani.it/079/095/
+079095;Petron√†;CZ;CAL;0961;88050;G518;2697;http://www.comuni-italiani.it/079/095/
 081024;Petrosino;TP;SIC;0923;91020;M281;7674;http://www.comuni-italiani.it/081/024/
 064071;Petruro Irpino;AV;CAM;0825;83010;G519;359;http://www.comuni-italiani.it/064/071/
 003116;Pettenasco;NO;PIE;0323;28028;G520;1392;http://www.comuni-italiani.it/003/116/
@@ -5138,7 +5138,7 @@
 002093;Pezzana;VC;PIE;0161;13010;G528;1338;http://www.comuni-italiani.it/002/093/
 017141;Pezzaze;BS;LOM;030;25060;G529;1616;http://www.comuni-italiani.it/017/141/
 004164;Pezzolo Valle Uzzone;CN;PIE;0173;12070;G532;353;http://www.comuni-italiani.it/004/164/
-033032;Piacenza;PC;EMR;0523;2912x;G535;103206;http://www.comuni-italiani.it/033/032/
+033032;Piacenza;PC;EMR;0523;29121-29122;G535;103206;http://www.comuni-italiani.it/033/032/
 028062;Piacenza d'Adige;PD;VEN;0425;35040;G534;1407;http://www.comuni-italiani.it/028/062/
 019071;Piadena;CR;LOM;0375;26034;G536;3645;http://www.comuni-italiani.it/019/071/
 041046;Piagge;PU;MAR;0721;61030;G537;1029;http://www.comuni-italiani.it/041/046/
@@ -5267,14 +5267,14 @@
 028064;Piombino Dese;PD;VEN;049;35017;G688;9443;http://www.comuni-italiani.it/028/064/
 043039;Pioraco;MC;MAR;0737;62025;G690;1307;http://www.comuni-italiani.it/043/039/
 001194;Piossasco;TO;PIE;011;10045;G691;18279;http://www.comuni-italiani.it/001/194/
-005086;Piov‡ Massaia;AT;PIE;0141;14026;G692;684;http://www.comuni-italiani.it/005/086/
+005086;Piov√† Massaia;AT;PIE;0141;14026;G692;684;http://www.comuni-italiani.it/005/086/
 028065;Piove di Sacco;PD;VEN;049;35028;G693;19413;http://www.comuni-italiani.it/028/065/
 024078;Piovene Rocchette;VI;VEN;0445;36013;G694;8361;http://www.comuni-italiani.it/024/078/
 006130;Piovera;AL;PIE;0131;15040;G695;818;http://www.comuni-italiani.it/006/130/
 033034;Piozzano;PC;EMR;0523;29010;G696;646;http://www.comuni-italiani.it/033/034/
 004169;Piozzo;CN;PIE;0173;12060;G697;1003;http://www.comuni-italiani.it/004/169/
 083068;Piraino;ME;SIC;0941;98060;G699;4044;http://www.comuni-italiani.it/083/068/
-050026;Pisa;PI;TOS;050;5612x;G702;88217;http://www.comuni-italiani.it/050/026/
+050026;Pisa;PI;TOS;050;56121-56128;G702;88217;http://www.comuni-italiani.it/050/026/
 003119;Pisano;NO;PIE;0322;28010;G703;807;http://www.comuni-italiani.it/003/119/
 001195;Piscina;TO;PIE;0121;10060;G705;3435;http://www.comuni-italiani.it/001/195/
 107015;Piscinas;CI;SAR;0781;09010;M291;862;http://www.comuni-italiani.it/107/015/
@@ -5298,7 +5298,7 @@
 080059;Placanica;RC;CAL;0964;89040;G729;1246;http://www.comuni-italiani.it/080/059/
 078100;Plataci;CS;CAL;0981;87070;G733;830;http://www.comuni-italiani.it/078/100/
 079099;Platania;CZ;CAL;0968;88040;G734;2267;http://www.comuni-italiani.it/079/099/
-080060;PlatÏ;RC;CAL;0964;89039;G735;3780;http://www.comuni-italiani.it/080/060/
+080060;Plat√¨;RC;CAL;0964;89039;G735;3780;http://www.comuni-italiani.it/080/060/
 021064;Plaus;BZ;TAA;0473;39025;G299;686;http://www.comuni-italiani.it/021/064/
 013185;Plesio;CO;LOM;0344;22010;G737;853;http://www.comuni-italiani.it/013/185/
 090057;Ploaghe;SS;SAR;079;07017;G740;4726;http://www.comuni-italiani.it/090/057/
@@ -5393,7 +5393,7 @@
 025040;Ponte nelle Alpi;BL;VEN;0437;32014;B662;8533;http://www.comuni-italiani.it/025/040/
 018117;Ponte Nizza;PV;LOM;0383;27050;G851;822;http://www.comuni-italiani.it/018/117/
 016168;Ponte Nossa;BG;LOM;035;24028;F941;1923;http://www.comuni-italiani.it/016/168/
-028069;Ponte San NicolÚ;PD;VEN;049;35020;G855;13325;http://www.comuni-italiani.it/028/069/
+028069;Ponte San Nicol√≤;PD;VEN;049;35020;G855;13325;http://www.comuni-italiani.it/028/069/
 016170;Ponte San Pietro;BG;LOM;035;24036;G856;11543;http://www.comuni-italiani.it/016/170/
 030076;Pontebba;UD;FVG;0428;33016;G831;1535;http://www.comuni-italiani.it/030/076/
 065099;Pontecagnano Faiano;SA;CAM;089;84098;G834;25307;http://www.comuni-italiani.it/065/099/
@@ -5455,7 +5455,7 @@
 090058;Porto Torres;SS;SAR;079;07046;G924;22567;http://www.comuni-italiani.it/090/058/
 012114;Porto Valtravaglia;VA;LOM;0332;21010;G907;2440;http://www.comuni-italiani.it/012/114/
 029052;Porto Viro;RO;VEN;0426;45014;G926;14761;http://www.comuni-italiani.it/029/052/
-026060;PortobuffolË;TV;VEN;0422;31040;G909;804;http://www.comuni-italiani.it/026/060/
+026060;Portobuffol√®;TV;VEN;0422;31040;G909;804;http://www.comuni-italiani.it/026/060/
 070055;Portocannone;CB;MOL;0875;86045;G910;2574;http://www.comuni-italiani.it/070/055/
 049014;Portoferraio;LI;TOS;0565;57037;G912;12253;http://www.comuni-italiani.it/049/014/
 010044;Portofino;GE;LIG;0185;16034;G913;479;http://www.comuni-italiani.it/010/044/
@@ -5540,7 +5540,7 @@
 006140;Predosa;AL;PIE;0131;15077;H021;2128;http://www.comuni-italiani.it/006/140/
 026063;Preganziol;TV;VEN;0422;31022;H022;17025;http://www.comuni-italiani.it/026/063/
 015179;Pregnana Milanese;MI;LOM;02;20010;H026;6919;http://www.comuni-italiani.it/015/179/
-008047;Prel‡;IM;LIG;0183;18020;H027;514;http://www.comuni-italiani.it/008/047/
+008047;Prel√†;IM;LIG;0183;18020;H027;514;http://www.comuni-italiani.it/008/047/
 097069;Premana;LC;LOM;0341;23834;H028;2312;http://www.comuni-italiani.it/097/069/
 030083;Premariacco;UD;FVG;0432;33040;H029;4222;http://www.comuni-italiani.it/030/083/
 103055;Premeno;VB;PIE;0323;28818;H030;773;http://www.comuni-italiani.it/103/055/
@@ -5551,7 +5551,7 @@
 030084;Preone;UD;FVG;0433;33020;H038;279;http://www.comuni-italiani.it/030/084/
 022148;Preore;TN;TAA;0465;38070;H039;400;http://www.comuni-italiani.it/022/148/
 030085;Prepotto;UD;FVG;0432;33040;H040;829;http://www.comuni-italiani.it/030/085/
-007053;PrË-Saint-Didier;AO;VDA;0165;11010;H042;992;http://www.comuni-italiani.it/007/053/
+007053;Pr√®-Saint-Didier;AO;VDA;0165;11010;H042;992;http://www.comuni-italiani.it/007/053/
 017153;Preseglie;BS;LOM;0365;25070;H043;1595;http://www.comuni-italiani.it/017/153/
 061065;Presenzano;CE;CAM;0823;81050;H045;1773;http://www.comuni-italiani.it/061/065/
 016176;Presezzo;BG;LOM;035;24030;H046;4896;http://www.comuni-italiani.it/016/176/
@@ -5660,7 +5660,7 @@
 036034;Ravarino;MO;EMR;059;41017;H195;6318;http://www.comuni-italiani.it/036/034/
 030088;Ravascletto;UD;FVG;0433;33020;H196;569;http://www.comuni-italiani.it/030/088/
 065104;Ravello;SA;CAM;089;84010;H198;2508;http://www.comuni-italiani.it/065/104/
-039014;Ravenna;RA;EMR;0544;4812x;H199;158739;http://www.comuni-italiani.it/039/014/
+039014;Ravenna;RA;EMR;0544;48121-48125;H199;158739;http://www.comuni-italiani.it/039/014/
 030089;Raveo;UD;FVG;0433;33029;H200;506;http://www.comuni-italiani.it/030/089/
 061066;Raviscanina;CE;CAM;0823;81017;H202;1383;http://www.comuni-italiani.it/061/066/
 103060;Re;VB;PIE;0324;28856;H203;765;http://www.comuni-italiani.it/103/060/
@@ -5679,8 +5679,8 @@
 026065;Refrontolo;TV;VEN;0438;31020;H220;1863;http://www.comuni-italiani.it/026/065/
 086016;Regalbuto;EN;SIC;0935;94017;H221;7512;http://www.comuni-italiani.it/086/016/
 048035;Reggello;FI;TOS;055;50066;H222;16296;http://www.comuni-italiani.it/048/035/
-080063;Reggio Calabria;RC;CAL;0965;891xx;H224;186547;http://www.comuni-italiani.it/080/063/
-035033;Reggio Emilia;RE;EMR;0522;4212x;H223;170086;http://www.comuni-italiani.it/035/033/
+080063;Reggio Calabria;RC;CAL;0965;89121-89135;H224;186547;http://www.comuni-italiani.it/080/063/
+035033;Reggio Emilia;RE;EMR;0522;42121-42124;H223;170086;http://www.comuni-italiani.it/035/033/
 035032;Reggiolo;RE;EMR;0522;42046;H225;9362;http://www.comuni-italiani.it/035/032/
 062056;Reino;BN;CAM;0824;82020;H227;1281;http://www.comuni-italiani.it/062/056/
 083070;Reitano;ME;SIC;0921;98070;H228;878;http://www.comuni-italiani.it/083/070/
@@ -5699,7 +5699,7 @@
 020049;Revere;MN;LOM;0386;46036;H248;2594;http://www.comuni-italiani.it/020/049/
 005090;Revigliasco d'Asti;AT;PIE;0141;14010;H250;840;http://www.comuni-italiani.it/005/090/
 026067;Revine Lago;TV;VEN;0438;31020;H253;2263;http://www.comuni-italiani.it/026/067/
-022152;RevÚ;TN;TAA;0463;38028;H254;1268;http://www.comuni-italiani.it/022/152/
+022152;Rev√≤;TN;TAA;0463;38028;H254;1268;http://www.comuni-italiani.it/022/152/
 013195;Rezzago;CO;LOM;031;22030;H255;317;http://www.comuni-italiani.it/013/195/
 017161;Rezzato;BS;LOM;030;25086;H256;13429;http://www.comuni-italiani.it/017/161/
 008049;Rezzo;IM;LIG;0183;18026;H257;383;http://www.comuni-italiani.it/008/049/
@@ -5717,7 +5717,7 @@
 006143;Ricaldone;AL;PIE;0144;15010;H272;685;http://www.comuni-italiani.it/006/143/
 070057;Riccia;CB;MOL;0874;86016;H273;5503;http://www.comuni-italiani.it/070/057/
 099013;Riccione;RN;EMR;0541;47838;H274;35815;http://www.comuni-italiani.it/099/013/
-011023;RiccÚ del Golfo di Spezia;SP;LIG;0187;19020;H275;3552;http://www.comuni-italiani.it/011/023/
+011023;Ricc√≤ del Golfo di Spezia;SP;LIG;0187;19020;H275;3552;http://www.comuni-italiani.it/011/023/
 019079;Ricengo;CR;LOM;0373;26010;H276;1795;http://www.comuni-italiani.it/019/079/
 065105;Ricigliano;SA;CAM;0828;84020;H277;1241;http://www.comuni-italiani.it/065/105/
 026068;Riese Pio X;TV;VEN;0423;31039;H280;10976;http://www.comuni-italiani.it/026/068/
@@ -5732,7 +5732,7 @@
 002111;Rima San Giuseppe;VC;PIE;0163;13026;H291;69;http://www.comuni-italiani.it/002/111/
 002112;Rimasco;VC;PIE;0163;13026;H292;119;http://www.comuni-italiani.it/002/112/
 002113;Rimella;VC;PIE;0163;13020;H293;135;http://www.comuni-italiani.it/002/113/
-099014;Rimini;RN;EMR;0541;4792x;H294;143321;http://www.comuni-italiani.it/099/014/
+099014;Rimini;RN;EMR;0541;47921-47924;H294;143321;http://www.comuni-italiani.it/099/014/
 021074;Rio di Pusteria;BZ;TAA;0472;39037;H299;2961;http://www.comuni-italiani.it/021/074/
 049015;Rio Marina;LI;TOS;0565;57038;H305;2274;http://www.comuni-italiani.it/049/015/
 049016;Rio nell'Elba;LI;TOS;0565;57039;H297;1244;http://www.comuni-italiani.it/049/016/
@@ -5803,7 +5803,7 @@
 004186;Roburent;CN;PIE;0174;12080;H378;541;http://www.comuni-italiani.it/004/186/
 001221;Rocca Canavese;TO;PIE;011;10070;H386;1781;http://www.comuni-italiani.it/001/221/
 058084;Rocca Canterano;RM;LAZ;0774;00020;H387;202;http://www.comuni-italiani.it/058/084/
-004188;Rocca CigliË;CN;PIE;0174;12060;H391;159;http://www.comuni-italiani.it/004/188/
+004188;Rocca Cigli√®;CN;PIE;0174;12060;H391;159;http://www.comuni-italiani.it/004/188/
 005093;Rocca d'Arazzo;AT;PIE;0141;14030;H392;954;http://www.comuni-italiani.it/005/093/
 060059;Rocca d'Arce;FR;LAZ;0776;03030;H393;990;http://www.comuni-italiani.it/060/059/
 004189;Rocca de' Baldi;CN;PIE;0174;12047;H395;1685;http://www.comuni-italiani.it/004/189/
@@ -5838,7 +5838,7 @@
 044064;Roccafluvione;AP;MAR;0736;63093;H390;2116;http://www.comuni-italiani.it/044/064/
 080066;Roccaforte del Greco;RC;CAL;0965;89060;H408;594;http://www.comuni-italiani.it/080/066/
 006146;Roccaforte Ligure;AL;PIE;0143;15060;H406;158;http://www.comuni-italiani.it/006/146/
-004190;Roccaforte MondovÏ;CN;PIE;0174;12088;H407;2127;http://www.comuni-italiani.it/004/190/
+004190;Roccaforte Mondov√¨;CN;PIE;0174;12088;H407;2127;http://www.comuni-italiani.it/004/190/
 073023;Roccaforzata;TA;PUG;099;74020;H409;1846;http://www.comuni-italiani.it/073/023/
 017162;Roccafranca;BS;LOM;030;25030;H410;4819;http://www.comuni-italiani.it/017/162/
 058087;Roccagiovine;RM;LAZ;0774;00020;H411;290;http://www.comuni-italiani.it/058/087/
@@ -5889,9 +5889,9 @@
 017163;Rodengo Saiano;BS;LOM;030;25050;H477;8858;http://www.comuni-italiani.it/017/163/
 013197;Rodero;CO;LOM;031;22070;H478;1202;http://www.comuni-italiani.it/013/197/
 071043;Rodi Garganico;FG;PUG;0884;71012;H480;3673;http://www.comuni-italiani.it/071/043/
-083075;RodÏ Milici;ME;SIC;090;98059;H479;2213;http://www.comuni-italiani.it/083/075/
+083075;Rod√¨ Milici;ME;SIC;090;98059;H479;2213;http://www.comuni-italiani.it/083/075/
 020051;Rodigo;MN;LOM;0376;46040;H481;5399;http://www.comuni-italiani.it/020/051/
-017164;RoË Volciano;BS;LOM;0365;25077;H484;4496;http://www.comuni-italiani.it/017/164/
+017164;Ro√® Volciano;BS;LOM;0365;25077;H484;4496;http://www.comuni-italiani.it/017/164/
 065109;Rofrano;SA;CAM;0974;84070;H485;1710;http://www.comuni-italiani.it/065/109/
 097072;Rogeno;LC;LOM;031;23849;H486;3239;http://www.comuni-italiani.it/097/072/
 078104;Roggiano Gravina;CS;CAL;0984;87017;H488;7371;http://www.comuni-italiani.it/078/104/
@@ -5905,7 +5905,7 @@
 007057;Roisan;AO;VDA;0165;11010;H497;1037;http://www.comuni-italiani.it/007/057/
 001222;Roletto;TO;PIE;0121;10060;H498;2028;http://www.comuni-italiani.it/001/222/
 035035;Rolo;RE;EMR;0522;42047;H500;4090;http://www.comuni-italiani.it/035/035/
-058091;Roma;RM;LAZ;06;001xx;H501;2761477;http://www.comuni-italiani.it/058/091/
+058091;Roma;RM;LAZ;06;00118-00199;H501;2761477;http://www.comuni-italiani.it/058/091/
 065110;Romagnano al Monte;SA;CAM;0828;84020;H503;399;http://www.comuni-italiani.it/065/110/
 003130;Romagnano Sesia;NO;PIE;0163;28078;H502;4103;http://www.comuni-italiani.it/003/130/
 018128;Romagnese;PV;LOM;0383;27050;H505;752;http://www.comuni-italiani.it/018/128/
@@ -5921,7 +5921,7 @@
 003131;Romentino;NO;PIE;0321;28068;H518;5386;http://www.comuni-italiani.it/003/131/
 083076;Rometta;ME;SIC;090;98043;H519;6694;http://www.comuni-italiani.it/083/076/
 013199;Ronago;CO;LOM;031;22027;H521;1769;http://www.comuni-italiani.it/013/199/
-023063;Ronc‡;VR;VEN;045;37030;H522;3766;http://www.comuni-italiani.it/023/063/
+023063;Ronc√†;VR;VEN;045;37030;H522;3766;http://www.comuni-italiani.it/023/063/
 026069;Roncade;TV;VEN;0422;31056;H523;14148;http://www.comuni-italiani.it/026/069/
 017165;Roncadelle;BS;LOM;030;25030;H525;9369;http://www.comuni-italiani.it/017/165/
 018129;Roncaro;PV;LOM;0382;27010;H527;1327;http://www.comuni-italiani.it/018/129/
@@ -5947,8 +5947,8 @@
 022135;Ronzo-Chienis;TN;TAA;0464;38060;M303;1022;http://www.comuni-italiani.it/022/135/
 022159;Ronzone;TN;TAA;0463;38010;H552;396;http://www.comuni-italiani.it/022/159/
 096054;Roppolo;BI;PIE;0161;13883;H553;934;http://www.comuni-italiani.it/096/054/
-001226;Ror‡;TO;PIE;0121;10060;H554;251;http://www.comuni-italiani.it/001/226/
-024087;Ros‡;VI;VEN;0424;36027;H556;14138;http://www.comuni-italiani.it/024/087/
+001226;Ror√†;TO;PIE;0121;10060;H554;251;http://www.comuni-italiani.it/001/226/
+024087;Ros√†;VI;VEN;0424;36027;H556;14138;http://www.comuni-italiani.it/024/087/
 080069;Rosarno;RC;CAL;0966;89025;H558;14836;http://www.comuni-italiani.it/080/069/
 018130;Rosasco;PV;LOM;0384;27030;H559;647;http://www.comuni-italiani.it/018/130/
 015188;Rosate;MI;LOM;02;20088;H560;5442;http://www.comuni-italiani.it/015/188/
@@ -5989,9 +5989,9 @@
 013202;Rovello Porro;CO;LOM;02;22070;H602;6105;http://www.comuni-italiani.it/013/202/
 020053;Roverbella;MN;LOM;0376;46048;H604;8649;http://www.comuni-italiani.it/020/053/
 023065;Roverchiara;VR;VEN;0442;37050;H606;2839;http://www.comuni-italiani.it/023/065/
-022160;RoverË della Luna;TN;TAA;0461;38030;H607;1602;http://www.comuni-italiani.it/022/160/
-023067;RoverË Veronese;VR;VEN;045;37028;H608;2206;http://www.comuni-italiani.it/023/067/
-023066;Roveredo di Gu‡;VR;VEN;0442;37040;H610;1546;http://www.comuni-italiani.it/023/066/
+022160;Rover√® della Luna;TN;TAA;0461;38030;H607;1602;http://www.comuni-italiani.it/022/160/
+023067;Rover√® Veronese;VR;VEN;045;37028;H608;2206;http://www.comuni-italiani.it/023/067/
+023066;Roveredo di Gu√†;VR;VEN;0442;37040;H610;1546;http://www.comuni-italiani.it/023/066/
 093036;Roveredo in Piano;PN;FVG;0434;33080;H609;5746;http://www.comuni-italiani.it/093/036/
 022161;Rovereto;TN;TAA;0464;38068;H612;38167;http://www.comuni-italiani.it/022/161/
 018131;Rovescala;PV;LOM;0385;27040;H614;951;http://www.comuni-italiani.it/018/131/
@@ -6009,7 +6009,7 @@
 001230;Rueglio;TO;PIE;0125;10010;H631;765;http://www.comuni-italiani.it/001/230/
 075064;Ruffano;LE;PUG;0833;73049;H632;9724;http://www.comuni-italiani.it/075/064/
 004198;Ruffia;CN;PIE;0172;12030;H633;365;http://www.comuni-italiani.it/004/198/
-022162;RuffrË-Mendola;TN;TAA;0463;38010;H634;416;http://www.comuni-italiani.it/022/162/
+022162;Ruffr√®-Mendola;TN;TAA;0463;38010;H634;416;http://www.comuni-italiani.it/022/162/
 048037;Rufina;FI;TOS;055;50068;H635;7461;http://www.comuni-italiani.it/048/037/
 095044;Ruinas;OR;SAR;0783;09085;F271;732;http://www.comuni-italiani.it/095/044/
 018132;Ruino;PV;LOM;0385;27040;H637;755;http://www.comuni-italiani.it/018/132/
@@ -6040,7 +6040,7 @@
 007061;Saint-Nicolas;AO;VDA;0165;11010;H672;325;http://www.comuni-italiani.it/007/061/
 007062;Saint-Oyen;AO;VDA;0165;11014;H673;214;http://www.comuni-italiani.it/007/062/
 007063;Saint-Pierre;AO;VDA;0165;11010;H674;3162;http://www.comuni-italiani.it/007/063/
-007064;Saint-RhÈmy-en-Bosses;AO;VDA;0165;11010;H675;377;http://www.comuni-italiani.it/007/064/
+007064;Saint-Rh√©my-en-Bosses;AO;VDA;0165;11010;H675;377;http://www.comuni-italiani.it/007/064/
 007065;Saint-Vincent;AO;VDA;0166;11027;H676;4787;http://www.comuni-italiani.it/007/065/
 034031;Sala Baganza;PR;EMR;0521;43038;H682;5394;http://www.comuni-italiani.it/034/031/
 096057;Sala Biellese;BI;PIE;015;13884;H681;627;http://www.comuni-italiani.it/096/057/
@@ -6064,7 +6064,7 @@
 065115;Salento;SA;CAM;0974;84070;H686;2046;http://www.comuni-italiani.it/065/115/
 001233;Salerano Canavese;TO;PIE;0125;10010;H702;543;http://www.comuni-italiani.it/001/233/
 098046;Salerano sul Lambro;LO;LOM;0371;26857;H701;2683;http://www.comuni-italiani.it/098/046/
-065116;Salerno;SA;CAM;089;841xx;H703;139019;http://www.comuni-italiani.it/065/116/
+065116;Salerno;SA;CAM;089;84121-84135;H703;139019;http://www.comuni-italiani.it/065/116/
 028074;Saletto;PD;VEN;0429;35046;H705;2751;http://www.comuni-italiani.it/028/074/
 026070;Salgareda;TV;VEN;0422;31040;H706;6692;http://www.comuni-italiani.it/026/070/
 002127;Sali Vercellese;VC;PIE;0161;13040;H707;120;http://www.comuni-italiani.it/002/127/
@@ -6074,7 +6074,7 @@
 023068;Salizzole;VR;VEN;045;37056;H714;3746;http://www.comuni-italiani.it/023/068/
 068036;Salle;PE;ABR;085;65020;H715;323;http://www.comuni-italiani.it/068/036/
 004202;Salmour;CN;PIE;0172;12040;H716;725;http://www.comuni-italiani.it/004/202/
-017170;SalÚ;BS;LOM;0365;25087;H717;10740;http://www.comuni-italiani.it/017/170/
+017170;Sal√≤;BS;LOM;0365;25087;H717;10740;http://www.comuni-italiani.it/017/170/
 021076;Salorno;BZ;TAA;0471;39040;H719;3536;http://www.comuni-italiani.it/021/076/
 034032;Salsomaggiore Terme;PR;EMR;0524;43039;H720;20051;http://www.comuni-italiani.it/034/032/
 041050;Saltara;PU;MAR;0721;61030;H721;6870;http://www.comuni-italiani.it/041/050/
@@ -6161,7 +6161,7 @@
 078114;San Demetrio Corone;CS;CAL;0984;87069;H818;3693;http://www.comuni-italiani.it/078/114/
 066087;San Demetrio ne' Vestini;AQ;ABR;0862;67028;H819;1839;http://www.comuni-italiani.it/066/087/
 001239;San Didero;TO;PIE;011;10050;H820;574;http://www.comuni-italiani.it/001/239/
-027033;San Don‡ di Piave;VE;VEN;0421;30027;H823;41592;http://www.comuni-italiani.it/027/033/
+027033;San Don√† di Piave;VE;VEN;0421;30027;H823;41592;http://www.comuni-italiani.it/027/033/
 074013;San Donaci;BR;PUG;0831;72025;H822;7050;http://www.comuni-italiani.it/074/013/
 075069;San Donato di Lecce;LE;PUG;0832;73010;H826;5871;http://www.comuni-italiani.it/075/069/
 078115;San Donato di Ninea;CS;CAL;0981;87010;H825;1514;http://www.comuni-italiani.it/078/115/
@@ -6328,7 +6328,7 @@
 022167;San Michele all'Adige;TN;TAA;0461;38010;I042;2875;http://www.comuni-italiani.it/022/167/
 087043;San Michele di Ganzaria;CT;SIC;0933;95040;I035;3580;http://www.comuni-italiani.it/087/043/
 064084;San Michele di Serino;AV;CAM;0825;83020;I034;2602;http://www.comuni-italiani.it/064/084/
-004210;San Michele MondovÏ;CN;PIE;0174;12080;I037;2072;http://www.comuni-italiani.it/004/210/
+004210;San Michele Mondov√¨;CN;PIE;0174;12080;I037;2072;http://www.comuni-italiani.it/004/210/
 074014;San Michele Salentino;BR;PUG;0831;72018;I045;6420;http://www.comuni-italiani.it/074/014/
 050032;San Miniato;PI;TOS;0571;56028;I046;28257;http://www.comuni-italiani.it/050/032/
 024093;San Nazario;VI;VEN;0424;36020;I047;1786;http://www.comuni-italiani.it/024/093/
@@ -6342,9 +6342,9 @@
 101021;San Nicola dell'Alto;KR;CAL;0962;88817;I057;916;http://www.comuni-italiani.it/101/021/
 061078;San Nicola la Strada;CE;CAM;0823;81020;I056;21746;http://www.comuni-italiani.it/061/078/
 062067;San Nicola Manfredi;BN;CAM;0824;82010;I062;3642;http://www.comuni-italiani.it/062/067/
-095046;San NicolÚ d'Arcidano;OR;SAR;0783;09097;A368;2837;http://www.comuni-italiani.it/095/046/
-025046;San NicolÚ di Comelico;BL;VEN;0435;32040;I063;407;http://www.comuni-italiani.it/025/046/
-092058;San NicolÚ Gerrei;CA;SAR;070;09040;G383;881;http://www.comuni-italiani.it/092/058/
+095046;San Nicol√≤ d'Arcidano;OR;SAR;0783;09097;A368;2837;http://www.comuni-italiani.it/095/046/
+025046;San Nicol√≤ di Comelico;BL;VEN;0435;32040;I063;407;http://www.comuni-italiani.it/025/046/
+092058;San Nicol√≤ Gerrei;CA;SAR;070;09040;G383;881;http://www.comuni-italiani.it/092/058/
 021084;San Pancrazio;BZ;TAA;0473;39010;I065;1588;http://www.comuni-italiani.it/021/084/
 074015;San Pancrazio Salentino;BR;PUG;0831;72026;I066;10342;http://www.comuni-italiani.it/074/015/
 017138;San Paolo;BS;LOM;030;25020;G407;4553;http://www.comuni-italiani.it/017/138/
@@ -6367,7 +6367,7 @@
 094043;San Pietro Avellana;IS;MOL;0865;86088;I096;539;http://www.comuni-italiani.it/094/043/
 087044;San Pietro Clarenza;CT;SIC;095;95030;I098;7160;http://www.comuni-italiani.it/087/044/
 025047;San Pietro di Cadore;BL;VEN;0435;32040;I088;1719;http://www.comuni-italiani.it/025/047/
-080075;San Pietro di Carid‡;RC;CAL;0966;89020;I102;1326;http://www.comuni-italiani.it/080/075/
+080075;San Pietro di Carid√†;RC;CAL;0966;89020;I102;1326;http://www.comuni-italiani.it/080/075/
 026073;San Pietro di Feletto;TV;VEN;0438;31020;I103;5416;http://www.comuni-italiani.it/026/073/
 023075;San Pietro di Morubio;VR;VEN;045;37050;I105;3024;http://www.comuni-italiani.it/023/075/
 078126;San Pietro in Amantea;CS;CAL;0982;87030;I108;540;http://www.comuni-italiani.it/078/126/
@@ -6453,7 +6453,7 @@
 075067;Sanarica;LE;PUG;0836;73030;H757;1490;http://www.comuni-italiani.it/075/067/
 096059;Sandigliano;BI;PIE;015;13876;H821;2731;http://www.comuni-italiani.it/096/059/
 024091;Sandrigo;VI;VEN;0444;36066;H829;8665;http://www.comuni-italiani.it/024/091/
-004208;SanfrË;CN;PIE;0172;12040;H851;2910;http://www.comuni-italiani.it/004/208/
+004208;Sanfr√®;CN;PIE;0172;12040;H851;2910;http://www.comuni-italiani.it/004/208/
 004209;Sanfront;CN;PIE;0175;12030;H852;2598;http://www.comuni-italiani.it/004/209/
 001241;Sangano;TO;PIE;011;10090;H855;3777;http://www.comuni-italiani.it/001/241/
 012141;Sangiano;VA;LOM;0332;21038;H872;1507;http://www.comuni-italiani.it/012/141/
@@ -6504,9 +6504,9 @@
 018143;Santa Maria della Versa;PV;LOM;0385;27047;I237;2519;http://www.comuni-italiani.it/018/143/
 087047;Santa Maria di Licodia;CT;SIC;095;95038;I240;7108;http://www.comuni-italiani.it/087/047/
 027035;Santa Maria di Sala;VE;VEN;041;30036;I242;17278;http://www.comuni-italiani.it/027/035/
-097074;Santa Maria HoË;LC;LOM;039;23889;I243;2256;http://www.comuni-italiani.it/097/074/
+097074;Santa Maria Ho√®;LC;LOM;039;23889;I243;2256;http://www.comuni-italiani.it/097/074/
 069084;Santa Maria Imbaro;CH;ABR;0872;66030;I244;1862;http://www.comuni-italiani.it/069/084/
-063090;Santa Maria la Carit‡;NA;CAM;081;80050;M273;11718;http://www.comuni-italiani.it/063/090/
+063090;Santa Maria la Carit√†;NA;CAM;081;80050;M273;11718;http://www.comuni-italiani.it/063/090/
 061084;Santa Maria La Fossa;CE;CAM;0823;81050;I247;2745;http://www.comuni-italiani.it/061/084/
 030104;Santa Maria La Longa;UD;FVG;0432;33050;I248;2445;http://www.comuni-italiani.it/030/104/
 103062;Santa Maria Maggiore;VB;PIE;0324;28857;I249;1271;http://www.comuni-italiani.it/103/062/
@@ -6597,7 +6597,7 @@
 080081;Sant'Eufemia d'Aspromonte;RC;CAL;0966;89027;I333;4164;http://www.comuni-italiani.it/080/081/
 069085;Sant'Eusanio del Sangro;CH;ABR;0872;66037;I335;2522;http://www.comuni-italiani.it/069/085/
 066090;Sant'Eusanio Forconese;AQ;ABR;0862;67020;I336;413;http://www.comuni-italiani.it/066/090/
-002133;Santhi‡;VC;PIE;0161;13048;I337;8994;http://www.comuni-italiani.it/002/133/
+002133;Santhi√†;VC;PIE;0161;13048;I337;8994;http://www.comuni-italiani.it/002/133/
 059026;Santi Cosma e Damiano;LT;LAZ;0771;04020;I339;6886;http://www.comuni-italiani.it/059/026/
 080082;Sant'Ilario dello Ionio;RC;CAL;0964;89040;I341;1374;http://www.comuni-italiani.it/080/082/
 035039;Sant'Ilario d'Enza;RE;EMR;0522;42049;I342;11021;http://www.comuni-italiani.it/035/039/
@@ -6741,13 +6741,13 @@
 066095;Scoppito;AQ;ABR;0862;67019;I546;3286;http://www.comuni-italiani.it/066/095/
 087049;Scordia;CT;SIC;095;95048;I548;17266;http://www.comuni-italiani.it/087/049/
 075073;Scorrano;LE;PUG;0836;73020;I549;7027;http://www.comuni-italiani.it/075/073/
-027037;ScorzË;VE;VEN;041;30037;I551;19052;http://www.comuni-italiani.it/027/037/
+027037;Scorz√®;VE;VEN;041;30037;I551;19052;http://www.comuni-italiani.it/027/037/
 066096;Scurcola Marsicana;AQ;ABR;0863;67068;I553;2813;http://www.comuni-italiani.it/066/096/
 022171;Scurelle;TN;TAA;0461;38050;I554;1403;http://www.comuni-italiani.it/022/171/
 005103;Scurzolengo;AT;PIE;0141;14030;I555;610;http://www.comuni-italiani.it/005/103/
 008057;Seborga;IM;LIG;0184;18012;I556;319;http://www.comuni-italiani.it/008/057/
 066097;Secinaro;AQ;ABR;0864;67029;I558;415;http://www.comuni-italiani.it/066/097/
-075074;SeclÏ;LE;PUG;0836;73050;I559;1938;http://www.comuni-italiani.it/075/074/
+075074;Secl√¨;LE;PUG;0836;73050;I559;1938;http://www.comuni-italiani.it/075/074/
 098052;Secugnago;LO;LOM;0377;26826;I561;2023;http://www.comuni-italiani.it/098/052/
 030109;Sedegliano;UD;FVG;0432;33039;I562;3926;http://www.comuni-italiani.it/030/109/
 025053;Sedico;BL;VEN;0437;32036;I563;9928;http://www.comuni-italiani.it/025/053/
@@ -6793,7 +6793,7 @@
 098053;Senna Lodigiana;LO;LOM;0377;26856;I612;2051;http://www.comuni-italiani.it/098/053/
 095055;Sennariolo;OR;SAR;0785;09078;I613;188;http://www.comuni-italiani.it/095/055/
 090067;Sennori;SS;SAR;079;07036;I614;7405;http://www.comuni-italiani.it/090/067/
-092070;SenorbÏ;CA;SAR;070;09040;I615;4745;http://www.comuni-italiani.it/092/070/
+092070;Senorb√¨;CA;SAR;070;09040;I615;4745;http://www.comuni-italiani.it/092/070/
 070075;Sepino;CB;MOL;0874;86017;I618;2041;http://www.comuni-italiani.it/070/075/
 103063;Seppiana;VB;PIE;0324;28843;I619;159;http://www.comuni-italiani.it/103/063/
 093042;Sequals;PN;FVG;0427;33090;I621;2258;http://www.comuni-italiani.it/093/042/
@@ -6814,7 +6814,7 @@
 078140;Serra d'Aiello;CS;CAL;0982;87030;I642;659;http://www.comuni-italiani.it/078/140/
 042046;Serra de' Conti;AN;MAR;0731;60030;I643;3741;http://www.comuni-italiani.it/042/046/
 078141;Serra Pedace;CS;CAL;0984;87050;I650;1006;http://www.comuni-italiani.it/078/141/
-010058;Serra RiccÚ;GE;LIG;010;16010;I640;7994;http://www.comuni-italiani.it/010/058/
+010058;Serra Ricc√≤;GE;LIG;010;16010;I640;7994;http://www.comuni-italiani.it/010/058/
 102037;Serra San Bruno;VV;CAL;0963;89822;I639;6971;http://www.comuni-italiani.it/102/037/
 042047;Serra San Quirico;AN;MAR;0731;60048;I653;3036;http://www.comuni-italiani.it/042/047/
 041061;Serra Sant'Abbondio;PU;MAR;0721;61040;I654;1113;http://www.comuni-italiani.it/041/061/
@@ -6929,7 +6929,7 @@
 109039;Smerillo;FM;MAR;0734;63856;I774;387;http://www.comuni-italiani.it/109/039/
 023081;Soave;VR;VEN;045;37038;I775;6976;http://www.comuni-italiani.it/023/081/
 030110;Socchieve;UD;FVG;0433;33020;I777;938;http://www.comuni-italiani.it/030/110/
-095078;SoddÏ;OR;SAR;0785;09080;I778;122;http://www.comuni-italiani.it/095/078/
+095078;Sodd√¨;OR;SAR;0785;09080;I778;122;http://www.comuni-italiani.it/095/078/
 040046;Sogliano al Rubicone;FC;EMR;0541;47030;I779;3293;http://www.comuni-italiani.it/040/046/
 075075;Sogliano Cavour;LE;PUG;0836;73010;I780;4122;http://www.comuni-italiani.it/075/075/
 005107;Soglio;AT;PIE;0141;14020;I781;155;http://www.comuni-italiani.it/005/107/
@@ -6983,7 +6983,7 @@
 096063;Sordevolo;BI;PIE;015;13817;I847;1334;http://www.comuni-italiani.it/096/063/
 098055;Sordio;LO;LOM;02;26858;I848;3120;http://www.comuni-italiani.it/098/055/
 019098;Soresina;CR;LOM;0374;26015;I849;9345;http://www.comuni-italiani.it/019/098/
-023084;Sorg‡;VR;VEN;045;37060;I850;3172;http://www.comuni-italiani.it/023/084/
+023084;Sorg√†;VR;VEN;045;37060;I850;3172;http://www.comuni-italiani.it/023/084/
 091086;Sorgono;NU;SAR;0784;08038;I851;1761;http://www.comuni-italiani.it/091/086/
 010060;Sori;GE;LIG;0185;16030;I852;4343;http://www.comuni-italiani.it/010/060/
 102039;Sorianello;VV;CAL;0963;89831;I853;1214;http://www.comuni-italiani.it/102/039/
@@ -7057,7 +7057,7 @@
 042049;Staffolo;AN;MAR;0731;60039;I932;2372;http://www.comuni-italiani.it/042/049/
 019103;Stagno Lombardo;CR;LOM;0372;26049;I935;1544;http://www.comuni-italiani.it/019/103/
 080090;Staiti;RC;CAL;0964;89030;I936;291;http://www.comuni-italiani.it/080/090/
-079143;StalettÏ;CZ;CAL;0961;88069;I937;2494;http://www.comuni-italiani.it/079/143/
+079143;Stalett√¨;CZ;CAL;0961;88069;I937;2494;http://www.comuni-italiani.it/079/143/
 028088;Stanghella;PD;VEN;0425;35048;I938;4403;http://www.comuni-italiani.it/028/088/
 031023;Staranzano;GO;FVG;0481;34079;I939;7257;http://www.comuni-italiani.it/031/023/
 073029;Statte;TA;PUG;099;74010;M298;14494;http://www.comuni-italiani.it/073/029/
@@ -7149,7 +7149,7 @@
 057067;Tarano;RI;LAZ;0765;02040;L046;1495;http://www.comuni-italiani.it/057/067/
 069089;Taranta Peligna;CH;ABR;0872;66018;L047;425;http://www.comuni-italiani.it/069/089/
 004225;Tarantasca;CN;PIE;0171;12020;L048;2042;http://www.comuni-italiani.it/004/225/
-073027;Taranto;TA;PUG;099;7412x;L049;191810;http://www.comuni-italiani.it/073/027/
+073027;Taranto;TA;PUG;099;74121-74123;L049;191810;http://www.comuni-italiani.it/073/027/
 030116;Tarcento;UD;FVG;0432;33017;L050;9148;http://www.comuni-italiani.it/030/116/
 056050;Tarquinia;VT;LAZ;0766;01016;D024;16724;http://www.comuni-italiani.it/056/050/
 078145;Tarsia;CS;CAL;0981;87040;L055;2164;http://www.comuni-italiani.it/078/145/
@@ -7186,7 +7186,7 @@
 022188;Telve;TN;TAA;0461;38050;L089;2003;http://www.comuni-italiani.it/022/188/
 022189;Telve di Sopra;TN;TAA;0461;38050;L090;625;http://www.comuni-italiani.it/022/189/
 104025;Tempio Pausania;OT;SAR;079;07029;L093;14290;http://www.comuni-italiani.it/104/025/
-017184;Tem˘;BS;LOM;0364;25050;L094;1085;http://www.comuni-italiani.it/017/184/
+017184;Tem√π;BS;LOM;0364;25050;L094;1085;http://www.comuni-italiani.it/017/184/
 022190;Tenna;TN;TAA;0461;38050;L096;983;http://www.comuni-italiani.it/022/190/
 022191;Tenno;TN;TAA;0464;38060;L097;2029;http://www.comuni-italiani.it/022/191/
 028089;Teolo;PD;VEN;049;35037;L100;8949;http://www.comuni-italiani.it/028/089/
@@ -7289,7 +7289,7 @@
 070079;Torella del Sannio;CB;MOL;0874;86028;L215;801;http://www.comuni-italiani.it/070/079/
 054053;Torgiano;PG;UMB;075;06089;L216;6585;http://www.comuni-italiani.it/054/053/
 007067;Torgnon;AO;VDA;0166;11020;L217;518;http://www.comuni-italiani.it/007/067/
-001272;Torino;TO;PIE;011;101xx;L219;907563;http://www.comuni-italiani.it/001/272/
+001272;Torino;TO;PIE;011;10121-10156;L219;907563;http://www.comuni-italiani.it/001/272/
 069091;Torino di Sangro;CH;ABR;0873;66020;L218;3084;http://www.comuni-italiani.it/069/091/
 072044;Toritto;BA;PUG;080;70020;L220;8645;http://www.comuni-italiani.it/072/044/
 019105;Torlino Vimercati;CR;LOM;0373;26017;L221;445;http://www.comuni-italiani.it/019/105/
@@ -7300,7 +7300,7 @@
 013223;Torno;CO;LOM;031;22020;L228;1214;http://www.comuni-italiani.it/013/223/
 034040;Tornolo;PR;EMR;0525;43059;L229;1145;http://www.comuni-italiani.it/034/040/
 070080;Toro;CB;MOL;0874;86018;L230;1513;http://www.comuni-italiani.it/070/080/
-091094;TorpË;NU;SAR;0784;08020;L231;2943;http://www.comuni-italiani.it/091/094/
+091094;Torp√®;NU;SAR;0784;08020;L231;2943;http://www.comuni-italiani.it/091/094/
 065148;Torraca;SA;CAM;0973;84030;L233;1304;http://www.comuni-italiani.it/065/148/
 090073;Torralba;SS;SAR;079;07048;L235;1001;http://www.comuni-italiani.it/090/073/
 018155;Torrazza Coste;PV;LOM;0383;27050;L237;1681;http://www.comuni-italiani.it/018/155/
@@ -7324,7 +7324,7 @@
 014067;Torre di Santa Maria;SO;LOM;0342;23020;L244;839;http://www.comuni-italiani.it/014/067/
 018159;Torre d'Isola;PV;LOM;0382;27020;L269;2359;http://www.comuni-italiani.it/018/159/
 064110;Torre Le Nocelle;AV;CAM;0825;83030;L272;1376;http://www.comuni-italiani.it/064/110/
-004227;Torre MondovÏ;CN;PIE;0174;12080;L241;511;http://www.comuni-italiani.it/004/227/
+004227;Torre Mondov√¨;CN;PIE;0174;12080;L241;511;http://www.comuni-italiani.it/004/227/
 065149;Torre Orsaia;SA;CAM;0974;84077;L274;2259;http://www.comuni-italiani.it/065/149/
 016217;Torre Pallavicina;BG;LOM;0363;24050;L276;1138;http://www.comuni-italiani.it/016/217/
 001275;Torre Pellice;TO;PIE;0121;10066;L277;4735;http://www.comuni-italiani.it/001/275/
@@ -7359,7 +7359,7 @@
 064111;Torrioni;AV;CAM;0825;83010;L301;586;http://www.comuni-italiani.it/064/111/
 052035;Torrita di Siena;SI;TOS;0577;53049;L303;7522;http://www.comuni-italiani.it/052/035/
 058106;Torrita Tiberina;RM;LAZ;0765;00060;L302;1076;http://www.comuni-italiani.it/058/106/
-105018;TortolÏ;OG;SAR;0782;08048;A355;10838;http://www.comuni-italiani.it/105/018/
+105018;Tortol√¨;OG;SAR;0782;08048;A355;10838;http://www.comuni-italiani.it/105/018/
 006174;Tortona;AL;PIE;0131;15057;L304;27706;http://www.comuni-italiani.it/006/174/
 078149;Tortora;CS;CAL;0985;87020;L305;6186;http://www.comuni-italiani.it/078/149/
 065150;Tortorella;SA;CAM;0973;84030;L306;572;http://www.comuni-italiani.it/065/150/
@@ -7390,7 +7390,7 @@
 103067;Trasquera;VB;PIE;0324;28868;L336;222;http://www.comuni-italiani.it/103/067/
 107021;Tratalias;CI;SAR;0781;09010;L337;1102;http://www.comuni-italiani.it/107/021/
 001277;Trausella;TO;PIE;0125;10080;L338;135;http://www.comuni-italiani.it/001/277/
-018162;TravacÚ Siccomario;PV;LOM;0382;27020;I236;4280;http://www.comuni-italiani.it/018/162/
+018162;Travac√≤ Siccomario;PV;LOM;0382;27020;I236;4280;http://www.comuni-italiani.it/018/162/
 017188;Travagliato;BS;LOM;030;25039;L339;13415;http://www.comuni-italiani.it/017/188/
 012128;Travedona-Monate;VA;LOM;0332;21028;L342;4029;http://www.comuni-italiani.it/012/128/
 001278;Traversella;TO;PIE;0125;10080;L345;350;http://www.comuni-italiani.it/001/278/
@@ -7417,7 +7417,7 @@
 017189;Tremosine;BS;LOM;0365;25010;L372;2154;http://www.comuni-italiani.it/017/189/
 078151;Trenta;CS;CAL;0984;87050;L375;2764;http://www.comuni-italiani.it/078/151/
 065152;Trentinara;SA;CAM;0828;84070;L377;1724;http://www.comuni-italiani.it/065/152/
-022205;Trento;TN;TAA;0461;3812x;L378;116298;http://www.comuni-italiani.it/022/205/
+022205;Trento;TN;TAA;0461;38121-38123;L378;116298;http://www.comuni-italiani.it/022/205/
 061094;Trentola-Ducenta;CE;CAM;081;81038;L379;17794;http://www.comuni-italiani.it/061/094/
 017190;Trenzano;BS;LOM;030;25030;L380;5551;http://www.comuni-italiani.it/017/190/
 030125;Treppo Carnico;UD;FVG;0433;33020;L381;659;http://www.comuni-italiani.it/030/125/
@@ -7456,11 +7456,11 @@
 030127;Tricesimo;UD;FVG;0432;33019;L421;7721;http://www.comuni-italiani.it/030/127/
 025061;Trichiana;BL;VEN;0437;32028;L422;4810;http://www.comuni-italiani.it/025/061/
 105019;Triei;OG;SAR;0782;08040;L423;1130;http://www.comuni-italiani.it/105/019/
-032006;Trieste;TS;FVG;040;341xx;L424;205535;http://www.comuni-italiani.it/032/006/
+032006;Trieste;TS;FVG;040;34121-34151;L424;205535;http://www.comuni-italiani.it/032/006/
 072046;Triggiano;BA;PUG;080;70019;L425;27553;http://www.comuni-italiani.it/072/046/
 019110;Trigolo;CR;LOM;0374;26018;L426;1772;http://www.comuni-italiani.it/019/110/
-004232;Trinit‡;CN;PIE;0172;12049;L427;2181;http://www.comuni-italiani.it/004/232/
-104026;Trinit‡ d'Agultu e Vignola;OT;SAR;079;07038;L428;2184;http://www.comuni-italiani.it/104/026/
+004232;Trinit√†;CN;PIE;0172;12049;L427;2181;http://www.comuni-italiani.it/004/232/
+104026;Trinit√† d'Agultu e Vignola;OT;SAR;079;07038;L428;2184;http://www.comuni-italiani.it/104/026/
 110010;Trinitapoli;BT;PUG;0883;76015;B915;14551;http://www.comuni-italiani.it/110/010/
 002148;Trino;VC;PIE;0161;13039;L429;7627;http://www.comuni-italiani.it/002/148/
 008061;Triora;IM;LIG;0184;18010;L430;398;http://www.comuni-italiani.it/008/061/
@@ -7513,7 +7513,7 @@
 075090;Ugento;LE;PUG;0833;73059;L484;12266;http://www.comuni-italiani.it/075/090/
 075091;Uggiano La Chiesa;LE;PUG;0836;73020;L485;4444;http://www.comuni-italiani.it/075/091/
 013228;Uggiate-Trevano;CO;LOM;031;22029;L487;4431;http://www.comuni-italiani.it/013/228/
-095068;Ul‡ Tirso;OR;SAR;0783;09080;L488;589;http://www.comuni-italiani.it/095/068/
+095068;Ul√† Tirso;OR;SAR;0783;09080;L488;589;http://www.comuni-italiani.it/095/068/
 105020;Ulassai;OG;SAR;0782;08040;L489;1550;http://www.comuni-italiani.it/105/020/
 021104;Ultimo;BZ;TAA;0473;39016;L490;2932;http://www.comuni-italiani.it/021/104/
 054056;Umbertide;PG;UMB;075;06019;D786;16890;http://www.comuni-italiani.it/054/056/
@@ -7717,7 +7717,7 @@
 012136;Venegono Inferiore;VA;LOM;0331;21040;L733;6370;http://www.comuni-italiani.it/012/136/
 012137;Venegono Superiore;VA;LOM;0331;21040;L734;7185;http://www.comuni-italiani.it/012/137/
 083104;Venetico;ME;SIC;090;98040;L735;3855;http://www.comuni-italiani.it/083/104/
-027042;Venezia;VE;VEN;041;301xx;L736;270884;http://www.comuni-italiani.it/027/042/
+027042;Venezia;VE;VEN;041;30121-30176;L736;270884;http://www.comuni-italiani.it/027/042/
 013238;Veniano;CO;LOM;031;22070;L737;2859;http://www.comuni-italiani.it/013/238/
 076095;Venosa;PZ;BAS;0972;85029;L738;12231;http://www.comuni-italiani.it/076/095/
 064116;Venticano;AV;CAM;0825;83030;L739;2599;http://www.comuni-italiani.it/064/116/
@@ -7727,7 +7727,7 @@
 030131;Venzone;UD;FVG;0432;33010;L743;2223;http://www.comuni-italiani.it/030/131/
 021112;Verano;BZ;TAA;0473;39010;L745;926;http://www.comuni-italiani.it/021/112/
 108048;Verano Brianza;MB;LOM;0362;20843;L744;9342;http://www.comuni-italiani.it/108/048/
-103072;Verbania;VB;PIE;0323;2892x;L746;31243;http://www.comuni-italiani.it/103/072/
+103072;Verbania;VB;PIE;0323;28921-28925;L746;31243;http://www.comuni-italiani.it/103/072/
 078153;Verbicaro;CS;CAL;0985;87020;L747;3238;http://www.comuni-italiani.it/078/153/
 013239;Vercana;CO;LOM;0344;22013;L748;754;http://www.comuni-italiani.it/013/239/
 014075;Verceia;SO;LOM;0343;23020;L749;1106;http://www.comuni-italiani.it/014/075/
@@ -7754,10 +7754,10 @@
 017196;Verolavecchia;BS;LOM;030;25029;L778;3903;http://www.comuni-italiani.it/017/196/
 001293;Verolengo;TO;PIE;011;10038;L779;5037;http://www.comuni-italiani.it/001/293/
 060085;Veroli;FR;LAZ;0775;03029;L780;20798;http://www.comuni-italiani.it/060/085/
-023091;Verona;VR;VEN;045;371xx;L781;263964;http://www.comuni-italiani.it/023/091/
+023091;Verona;VR;VEN;045;37121-37142;L781;263964;http://www.comuni-italiani.it/023/091/
 023092;Veronella;VR;VEN;0442;37040;D193;4710;http://www.comuni-italiani.it/023/092/
 007072;Verrayes;AO;VDA;0166;11020;L783;1351;http://www.comuni-italiani.it/007/072/
-007073;VerrËs;AO;VDA;0125;11029;C282;2758;http://www.comuni-italiani.it/007/073/
+007073;Verr√®s;AO;VDA;0125;11029;C282;2758;http://www.comuni-italiani.it/007/073/
 018174;Verretto;PV;LOM;0383;27053;L784;377;http://www.comuni-italiani.it/018/174/
 096076;Verrone;BI;PIE;015;13871;L785;1213;http://www.comuni-italiani.it/096/076/
 018175;Verrua Po;PV;LOM;0385;27040;L788;1288;http://www.comuni-italiani.it/018/175/
@@ -7767,7 +7767,7 @@
 099020;Verucchio;RN;EMR;0541;47826;L797;10079;http://www.comuni-italiani.it/099/020/
 003157;Veruno;NO;PIE;0322;28010;L798;1874;http://www.comuni-italiani.it/003/157/
 014076;Vervio;SO;LOM;0342;23030;L799;216;http://www.comuni-italiani.it/014/076/
-022214;VervÚ;TN;TAA;0463;38010;L800;729;http://www.comuni-italiani.it/022/214/
+022214;Verv√≤;TN;TAA;0463;38010;L800;729;http://www.comuni-italiani.it/022/214/
 030132;Verzegnis;UD;FVG;0433;33020;L801;929;http://www.comuni-italiani.it/030/132/
 101027;Verzino;KR;CAL;0962;88819;L802;2022;http://www.comuni-italiani.it/101/027/
 004240;Verzuolo;CN;PIE;0175;12039;L804;6507;http://www.comuni-italiani.it/004/240/
@@ -7777,7 +7777,7 @@
 003158;Vespolate;NO;PIE;0321;28079;L808;2085;http://www.comuni-italiani.it/003/158/
 008066;Vessalico;IM;LIG;0183;18026;L809;315;http://www.comuni-italiani.it/008/066/
 023093;Vestenanova;VR;VEN;045;37030;L810;2677;http://www.comuni-italiani.it/023/093/
-001295;VestignË;TO;PIE;0125;10030;L811;834;http://www.comuni-italiani.it/001/295/
+001295;Vestign√®;TO;PIE;0125;10030;L811;834;http://www.comuni-italiani.it/001/295/
 017197;Vestone;BS;LOM;0365;25078;L812;4509;http://www.comuni-italiani.it/017/197/
 097089;Vestreno;LC;LOM;0341;23822;L813;315;http://www.comuni-italiani.it/097/089/
 056057;Vetralla;VT;LAZ;0761;01019;L814;13508;http://www.comuni-italiani.it/056/057/
@@ -7792,7 +7792,7 @@
 016235;Viadanica;BG;LOM;035;24060;L827;1142;http://www.comuni-italiani.it/016/235/
 087053;Viagrande;CT;SIC;095;95029;L828;8090;http://www.comuni-italiani.it/087/053/
 005114;Viale;AT;PIE;0141;14010;L829;264;http://www.comuni-italiani.it/005/114/
-001296;VialfrË;TO;PIE;0125;10090;L830;247;http://www.comuni-italiani.it/001/296/
+001296;Vialfr√®;TO;PIE;0125;10090;L830;247;http://www.comuni-italiani.it/001/296/
 035044;Viano;RE;EMR;0522;42030;L831;3423;http://www.comuni-italiani.it/035/044/
 046033;Viareggio;LU;TOS;0584;55049;L833;64503;http://www.comuni-italiani.it/046/033/
 005115;Viarigi;AT;PIE;0141;14030;L834;971;http://www.comuni-italiani.it/005/115/
@@ -7819,14 +7819,14 @@
 076096;Vietri di Potenza;PZ;BAS;0971;85058;L859;2933;http://www.comuni-italiani.it/076/096/
 065157;Vietri sul Mare;SA;CAM;089;84019;L860;8293;http://www.comuni-italiani.it/065/157/
 103073;Viganella;VB;PIE;0324;28841;L864;204;http://www.comuni-italiani.it/103/073/
-097090;ViganÚ;LC;LOM;039;23897;L866;2015;http://www.comuni-italiani.it/097/090/
+097090;Vigan√≤;LC;LOM;039;23897;L866;2015;http://www.comuni-italiani.it/097/090/
 016236;Vigano San Martino;BG;LOM;035;24060;L865;1260;http://www.comuni-italiani.it/016/236/
 038022;Vigarano Mainarda;FE;EMR;0532;44049;L868;7520;http://www.comuni-italiani.it/038/022/
 023094;Vigasio;VR;VEN;045;37068;L869;9438;http://www.comuni-italiani.it/023/094/
 018177;Vigevano;PV;LOM;0381;27029;L872;63700;http://www.comuni-italiani.it/018/177/
 076097;Viggianello;PZ;BAS;0973;85040;L873;3209;http://www.comuni-italiani.it/076/097/
 076098;Viggiano;PZ;BAS;0975;85059;L874;3170;http://www.comuni-italiani.it/076/098/
-012139;Viggi˘;VA;LOM;0332;21059;L876;5247;http://www.comuni-italiani.it/012/139/
+012139;Viggi√π;VA;LOM;0332;21059;L876;5247;http://www.comuni-italiani.it/012/139/
 028098;Vighizzolo d'Este;PD;VEN;0429;35040;L878;955;http://www.comuni-italiani.it/028/098/
 096077;Vigliano Biellese;BI;PIE;015;13856;L880;8343;http://www.comuni-italiani.it/096/077/
 005116;Vigliano d'Asti;AT;PIE;0141;14040;L879;880;http://www.comuni-italiani.it/005/116/
@@ -7859,7 +7859,7 @@
 046035;Villa Collemandina;LU;TOS;0583;55030;L926;1404;http://www.comuni-italiani.it/046/035/
 015248;Villa Cortese;MI;LOM;0331;20020;L928;6216;http://www.comuni-italiani.it/015/248/
 016238;Villa d'Adda;BG;LOM;035;24030;L929;4729;http://www.comuni-italiani.it/016/238/
-016239;Villa d'AlmË;BG;LOM;035;24018;A215;6844;http://www.comuni-italiani.it/016/239/
+016239;Villa d'Alm√®;BG;LOM;035;24018;A215;6844;http://www.comuni-italiani.it/016/239/
 096078;Villa del Bosco;BI;PIE;0163;13868;L933;379;http://www.comuni-italiani.it/096/078/
 028101;Villa del Conte;PD;VEN;049;35010;L934;5530;http://www.comuni-italiani.it/028/101/
 061098;Villa di Briano;CE;CAM;081;81030;D801;6522;http://www.comuni-italiani.it/061/098/
@@ -7928,7 +7928,7 @@
 098060;Villanova del Sillaro;LO;LOM;0371;26818;L977;1824;http://www.comuni-italiani.it/098/060/
 028104;Villanova di Camposampiero;PD;VEN;049;35010;L979;5903;http://www.comuni-italiani.it/028/104/
 029051;Villanova Marchesana;RO;VEN;0425;45030;L988;1047;http://www.comuni-italiani.it/029/051/
-004245;Villanova MondovÏ;CN;PIE;0174;12089;L974;5838;http://www.comuni-italiani.it/004/245/
+004245;Villanova Mondov√¨;CN;PIE;0174;12089;L974;5838;http://www.comuni-italiani.it/004/245/
 006185;Villanova Monferrato;AL;PIE;0142;15030;L972;1861;http://www.comuni-italiani.it/006/185/
 090078;Villanova Monteleone;SS;SAR;079;07019;L989;2405;http://www.comuni-italiani.it/090/078/
 004246;Villanova Solaro;CN;PIE;0172;12030;L990;783;http://www.comuni-italiani.it/004/246/
@@ -8003,7 +8003,7 @@
 015243;Vittuone;MI;LOM;02;20010;M091;9082;http://www.comuni-italiani.it/015/243/
 062077;Vitulano;BN;CAM;0824;82038;M093;3006;http://www.comuni-italiani.it/062/077/
 061100;Vitulazio;CE;CAM;0823;81041;M092;6984;http://www.comuni-italiani.it/061/100/
-001313;Vi˘;TO;PIE;0123;10070;M094;1141;http://www.comuni-italiani.it/001/313/
+001313;Vi√π;TO;PIE;0123;10070;M094;1141;http://www.comuni-italiani.it/001/313/
 093050;Vivaro;PN;FVG;0427;33099;M096;1388;http://www.comuni-italiani.it/093/050/
 058113;Vivaro Romano;RM;LAZ;0774;00020;M095;192;http://www.comuni-italiani.it/058/113/
 096080;Viverone;BI;PIE;0161;13886;M098;1435;http://www.comuni-italiani.it/096/080/
@@ -8043,7 +8043,7 @@
 022225;Zambana;TN;TAA;0461;38010;M142;1677;http://www.comuni-italiani.it/022/225/
 102049;Zambrone;VV;CAL;0963;89868;M143;1829;http://www.comuni-italiani.it/102/049/
 016244;Zandobbio;BG;LOM;035;24060;M144;2746;http://www.comuni-italiani.it/016/244/
-024119;ZanË;VI;VEN;0445;36010;M145;6599;http://www.comuni-italiani.it/024/119/
+024119;Zan√®;VI;VEN;0445;36010;M145;6599;http://www.comuni-italiani.it/024/119/
 016245;Zanica;BG;LOM;035;24050;M147;8190;http://www.comuni-italiani.it/016/245/
 071064;Zapponeta;FG;PUG;0884;71030;M267;3465;http://www.comuni-italiani.it/071/064/
 018184;Zavattarello;PV;LOM;0383;27059;M150;1052;http://www.comuni-italiani.it/018/184/
@@ -8057,7 +8057,7 @@
 026094;Zenson di Piave;TV;VEN;0421;31050;M163;1825;http://www.comuni-italiani.it/026/094/
 033047;Zerba;PC;EMR;0523;29020;M165;94;http://www.comuni-italiani.it/033/047/
 018188;Zerbo;PV;LOM;0382;27017;M166;444;http://www.comuni-italiani.it/018/188/
-018189;ZerbolÚ;PV;LOM;0382;27020;M167;1642;http://www.comuni-italiani.it/018/189/
+018189;Zerbol√≤;PV;LOM;0382;27020;M167;1642;http://www.comuni-italiani.it/018/189/
 095075;Zerfaliu;OR;SAR;0783;09070;M168;1181;http://www.comuni-italiani.it/095/075/
 045017;Zeri;MS;TOS;0187;54029;M169;1217;http://www.comuni-italiani.it/045/017/
 024120;Zermeghedo;VI;VEN;0444;36050;M170;1380;http://www.comuni-italiani.it/024/120/
@@ -8078,7 +8078,7 @@
 025068;Zoldo Alto;BL;VEN;0437;32010;I345;1034;http://www.comuni-italiani.it/025/068/
 075094;Zollino;LE;PUG;0836;73010;M187;2072;http://www.comuni-italiani.it/075/094/
 017205;Zone;BS;LOM;030;25050;M188;1110;http://www.comuni-italiani.it/017/205/
-025069;ZoppË di Cadore;BL;VEN;0437;32010;M189;271;http://www.comuni-italiani.it/025/069/
+025069;Zopp√® di Cadore;BL;VEN;0437;32010;M189;271;http://www.comuni-italiani.it/025/069/
 093051;Zoppola;PN;FVG;0434;33080;M190;8565;http://www.comuni-italiani.it/093/051/
 024121;Zovencedo;VI;VEN;0444;36020;M194;814;http://www.comuni-italiani.it/024/121/
 096082;Zubiena;BI;PIE;015;13888;M196;1257;http://www.comuni-italiani.it/096/082/
